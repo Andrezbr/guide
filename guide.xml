@@ -1,0 +1,4112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TELECINE FUN HD">
+    <display-name lang="pt">TELECINE FUN HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TELECINE FUN">
+    <display-name lang="pt">TELECINE FUN</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="WARNER CHANNEL HD">
+    <display-name lang="pt">WARNER CHANNEL HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvviena.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SPORTV HD">
+    <display-name lang="pt">SPORTV HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="DISNEY CHANNEL HD">
+    <display-name lang="pt">DISNEY CHANNEL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="DISNEY XD">
+    <display-name lang="pt">DISNEY XD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN BRASIL HD">
+    <display-name lang="pt">ESPN BRASIL HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="pt">FX HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="pt">FOX HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcamara-nh.gif|http://www.lineup.tv.br/canais/tvalrs.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="pt">HBO HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE PREMIUM HD">
+    <display-name lang="pt">TELECINE PREMIUM HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20180805001000 -0300" stop="20180805014500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Todo Mundo em Pânico 5</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180805014500 -0300" stop="20180805033500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Jackass 3d</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180805033500 -0300" stop="20180805051500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Babá Fora de Controle: Missão Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180805051500 -0300" stop="20180805065000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Cão Que Ladra Não Morde 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180805065000 -0300" stop="20180805083000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Fantasmas à Solta 3: Sociedade do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180805083000 -0300" stop="20180805101000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">A Lenda de Oz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180805101000 -0300" stop="20180805115000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Mr. Magoo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180805115000 -0300" stop="20180805133000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Legalmente Loira 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180805133000 -0300" stop="20180805150000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Gato</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180805150000 -0300" stop="20180805164500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Herbie: Meu Fusca Turbinado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180805164500 -0300" stop="20180805181000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">A Dama e o Vagabundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180805181000 -0300" stop="20180805200000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Bob Esponja: Um Herói Fora D'Água</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180805200000 -0300" stop="20180805220000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Mortdecai</title>
+    <sub-title lang="pt">A Arte da Trapaça</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180805220000 -0300" stop="20180806000000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Última Viagem a Vegas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180806000000 -0300" stop="20180806020500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Trovão Tropical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180806020500 -0300" stop="20180806035500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">A Ressaca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180806035500 -0300" stop="20180806053000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Todo Mundo em Pânico 5</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180806053000 -0300" stop="20180806072000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Uma Turma do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180806072000 -0300" stop="20180806090500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Casamento de Gorete</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180806090500 -0300" stop="20180806110000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Uma Manhã Gloriosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180806110000 -0300" stop="20180806125000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">American Girl</title>
+    <sub-title lang="pt">Lea e a Grande Aventura no Brasil</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180806125000 -0300" stop="20180806144000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Escola de Espiões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180806144000 -0300" stop="20180806164500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Entrando Numa Fria Maior Ainda</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180806164500 -0300" stop="20180806184000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Mudança de Hábito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180806184000 -0300" stop="20180806202000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Mune, O Guardião da Lua</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180806202000 -0300" stop="20180806220000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Todas as Manhãs do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180806220000 -0300" stop="20180806235000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Legalmente Loira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180806235000 -0300" stop="20180807013000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">A Pantera Cor-de-Rosa 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180807013000 -0300" stop="20180807032500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Última Viagem a Vegas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180807032500 -0300" stop="20180807052500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">High School Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180807052500 -0300" stop="20180807070500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">A Lenda de Oz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180807070500 -0300" stop="20180807085000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Agente Mirim</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180807085000 -0300" stop="20180807103000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Guerreiros no Espaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180807103000 -0300" stop="20180807120000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Gato</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180807120000 -0300" stop="20180807135000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Os Caras de Pau em O Misterioso Roubo do Anel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180807135000 -0300" stop="20180807152000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">A Dama e o Vagabundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180807152000 -0300" stop="20180807164000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">A Dama e o Vagabundo 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180807164000 -0300" stop="20180807182500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Bob Esponja: Um Herói Fora D'Água</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180807182500 -0300" stop="20180807202500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Rango</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180807202500 -0300" stop="20180807220000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Dr. Dolittle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180807220000 -0300" stop="20180807234000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Rei Leão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180807234000 -0300" stop="20180808012000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Fada do Dente 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180808012000 -0300" stop="20180808030500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Caindo na Estrada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180808030500 -0300" stop="20180808045000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Casamento de Gorete</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180808045000 -0300" stop="20180808065500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Trovão Tropical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180808065500 -0300" stop="20180808083500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Os Caçadores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180808083500 -0300" stop="20180808101000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Perdido Pra Cachorro 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180808101000 -0300" stop="20180808115500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Cheque em Branco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180808115500 -0300" stop="20180808134000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Ela Dança, Eu Danço 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180808134000 -0300" stop="20180808152000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">A Pantera Cor-de-Rosa 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180808152000 -0300" stop="20180808171000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Mortdecai</title>
+    <sub-title lang="pt">A Arte da Trapaça</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180808171000 -0300" stop="20180808184500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Mune, O Guardião da Lua</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180808184500 -0300" stop="20180808203000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Magal e os Formigas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180808203000 -0300" stop="20180808220000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Doug</title>
+    <sub-title lang="pt">O Filme</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180808220000 -0300" stop="20180809000000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Um Espião e Meio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180809000000 -0300" stop="20180809013500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Pequenos Espiões 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180809013500 -0300" stop="20180809030500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Todo Mundo em Pânico 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180809030500 -0300" stop="20180809044500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Guerreiros no Espaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180809044500 -0300" stop="20180809063000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">American Girl</title>
+    <sub-title lang="pt">Lea e a Grande Aventura no Brasil</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180809063000 -0300" stop="20180809082000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Os Caras de Pau em O Misterioso Roubo do Anel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180809082000 -0300" stop="20180809100500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Menino e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180809100500 -0300" stop="20180809112500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">A Dama e o Vagabundo 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180809112500 -0300" stop="20180809130000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Dr. Dolittle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180809130000 -0300" stop="20180809145000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Os Muppets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180809145000 -0300" stop="20180809163500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Legalmente Loira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180809163500 -0300" stop="20180809181000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Rei Leão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180809181000 -0300" stop="20180809200000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Hanni &amp; Nanni: Mais Que Melhores Amigas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180809200000 -0300" stop="20180809220000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Malasartes e o Duelo com a Morte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180809220000 -0300" stop="20180810001500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Carros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180810001500 -0300" stop="20180810021000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Kubo e as Cordas Mágicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180810021000 -0300" stop="20180810035500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Cheque em Branco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180810035500 -0300" stop="20180810055000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Bola Fora</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180810055000 -0300" stop="20180810073500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Caindo na Estrada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180810073500 -0300" stop="20180810093000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">A Melhor Festa do Ano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180810093000 -0300" stop="20180810111000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Fada do Dente 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180810111000 -0300" stop="20180810130500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Rango</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180810130500 -0300" stop="20180810144500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Planeta do Tesouro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180810144500 -0300" stop="20180810161000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Doug</title>
+    <sub-title lang="pt">O Filme</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180810161000 -0300" stop="20180810175000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Duas Vezes Cupido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180810175000 -0300" stop="20180810195000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Mulheres ao Ataque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180810195000 -0300" stop="20180810215000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Um Espião e Meio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180810215000 -0300" stop="20180810220000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Piper: Descobrindo o Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180810220000 -0300" stop="20180810235000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Procurando Dory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180810235000 -0300" stop="20180811013000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Tarzan: A Evolução da Lenda</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180811013000 -0300" stop="20180811031500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Dono da Festa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180811031500 -0300" stop="20180811050000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Ela Dança, Eu Danço 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180811050000 -0300" stop="20180811064000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Absolutely Fabulous: O Filme</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180811064000 -0300" stop="20180811082000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">A.R.C.H.I.E.</title>
+    <sub-title lang="pt">O Cão Robô</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180811082000 -0300" stop="20180811101000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Os Muppets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180811101000 -0300" stop="20180811120000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Hanni &amp; Nanni: Mais Que Melhores Amigas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180811120000 -0300" stop="20180811134000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Pequenos Espiões 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180811134000 -0300" stop="20180811154000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Um Conto Quase de Fadas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180811154000 -0300" stop="20180811173500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Kubo e as Cordas Mágicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180811173500 -0300" stop="20180811195000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Carros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180811195000 -0300" stop="20180811220000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Descendentes 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180811220000 -0300" stop="20180811234000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Pets</title>
+    <sub-title lang="pt">A Vida Secreta dos Bichos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180811234000 -0300" stop="20180812014500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Um Jantar para Idiotas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180805003000 -0300" stop="20180805013000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - LDU (EQU) x Vasco</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805013000 -0300" stop="20180805023000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Corinthians x Cruzeiro</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805023000 -0300" stop="20180805033000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Grêmio x São Paulo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805033000 -0300" stop="20180805043000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - América MG x Internacional</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805043000 -0300" stop="20180805053000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Ceará x Fluminense</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805053000 -0300" stop="20180805063000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - LDU (EQU) x Vasco</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805063000 -0300" stop="20180805073000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Corinthians x Cruzeiro</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805073000 -0300" stop="20180805083000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Grêmio x São Paulo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805083000 -0300" stop="20180805093000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Ceará x Fluminense</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805093000 -0300" stop="20180805101500 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Santos x Flamengo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805101500 -0300" stop="20180805110000 -0300" channel="SPORTV HD">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805110000 -0300" stop="20180805124500 -0300" channel="SPORTV HD">
+    <title lang="pt">Liga Nacional de Futsal: Pato Futsal x Joinville - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805124500 -0300" stop="20180805143000 -0300" channel="SPORTV HD">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+    <desc lang="pt">A dupla Bárbara Coelho e Thiago Oliveira comanda o Tá na Área, programa diário que fala um pouco de todos os esportes, acompanha o dia a dia dos principais clubes de futebol do Brasil e ainda tem matérias e entrevistas exclusivas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805143000 -0300" stop="20180805160000 -0300" channel="SPORTV HD">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805160000 -0300" stop="20180805164500 -0300" channel="SPORTV HD">
+    <title lang="pt">França x Croácia - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805164500 -0300" stop="20180805174500 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Vasco x Corinthians</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805174500 -0300" stop="20180805190000 -0300" channel="SPORTV HD">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805190000 -0300" stop="20180805210000 -0300" channel="SPORTV HD">
+    <title lang="pt">Chapecoense x Grêmio - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805210000 -0300" stop="20180805230000 -0300" channel="SPORTV HD">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+    <desc lang="pt">Tiago Maranhão e Roger Flores comandam o novo Troca, agora de terça a domingo e com novo estúdio. Sempre após a rodada, acompanhe a melhor análise pós-jogo da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805230000 -0300" stop="20180806000000 -0300" channel="SPORTV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806000000 -0300" stop="20180806010000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Flamengo x Sport</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806010000 -0300" stop="20180806020000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Cruzeiro x São Paulo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806020000 -0300" stop="20180806023000 -0300" channel="SPORTV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806023000 -0300" stop="20180806033000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Vasco x Corinthians</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806033000 -0300" stop="20180806043000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Chapecoense x Grêmio</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806043000 -0300" stop="20180806053000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Palmeiras x Paraná</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806053000 -0300" stop="20180806063000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Cruzeiro x São Paulo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806063000 -0300" stop="20180806073000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Vasco x Corinthians</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806073000 -0300" stop="20180806083000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Flamengo x Sport</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806083000 -0300" stop="20180806090000 -0300" channel="SPORTV HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806090000 -0300" stop="20180806094500 -0300" channel="SPORTV HD">
+    <title lang="pt">Planeta SporTV - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do esporte pelo mundo, a repercussão internacional e os aspectos culturais do esporte lá fora, com correspondentes na Europa, EUA, Ásia e Américas pra rodar o mundo sem sair do lugar(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806094500 -0300" stop="20180806120000 -0300" channel="SPORTV HD">
+    <title lang="pt">Redação SporTV - Ao Vivo</title>
+    <desc lang="pt">André Rizek recebe jornalistas convidados para discutir o esporte e rodar o Brasil com notícias de norte a sul. Direto da redação do SporTV, o programa repercute as notícias do rádio, TV, impresso e online(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806120000 -0300" stop="20180806124500 -0300" channel="SPORTV HD">
+    <title lang="pt">É Gol - Ao Vivo</title>
+    <desc lang="pt">Conheça o novo É Gol Novo estúdio, novos quadros e nova apresentadora, Ana Helena Goebel. Não perca De segunda a sexta, sempre ao meio-dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806124500 -0300" stop="20180806160000 -0300" channel="SPORTV HD">
+    <title lang="pt">Seleção SporTV - Ao Vivo</title>
+    <desc lang="pt">Seleção SporTV, tudo sobre futebol O balanço da rodada e os jogos que vem por aí num debate inteligente e com convidados diários. Além de muita interatividade e as criativas hashtags. O comando é de Marcelo Barreto(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806160000 -0300" stop="20180806170000 -0300" channel="SPORTV HD">
+    <title lang="pt">Giro da Rodada - Ao Vivo</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806170000 -0300" stop="20180806183000 -0300" channel="SPORTV HD">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+    <desc lang="pt">A dupla Bárbara Coelho e Thiago Oliveira comanda o Tá na Área, programa diário que fala um pouco de todos os esportes, acompanha o dia a dia dos principais clubes de futebol do Brasil e ainda tem matérias e entrevistas exclusivas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806183000 -0300" stop="20180806200000 -0300" channel="SPORTV HD">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806200000 -0300" stop="20180806220000 -0300" channel="SPORTV HD">
+    <title lang="pt">Bahia x Atlético MG - Ao Vivo</title>
+    <desc lang="pt">Sinopse Não Dísponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806220000 -0300" stop="20180807000000 -0300" channel="SPORTV HD">
+    <title lang="pt">Bem, Amigos - Ao Vivo</title>
+    <desc lang="pt">Galvão Bueno comanda um dos mais tradicionais programas do SporTV. Toda segunda ao vivo à 21hs, ele recebe jogadores, técnicos e personalidades do esporte para um bate-papo animado entre amigos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807000000 -0300" stop="20180807010000 -0300" channel="SPORTV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807010000 -0300" stop="20180807020000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Flamengo x Sport</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807020000 -0300" stop="20180807030000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Vasco x Corinthians</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807030000 -0300" stop="20180807040000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Cruzeiro x São Paulo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807040000 -0300" stop="20180807050000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Bahia x Atlético MG</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807050000 -0300" stop="20180807053000 -0300" channel="SPORTV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807053000 -0300" stop="20180807063000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Palmeiras x Paraná</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807063000 -0300" stop="20180807073000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Vasco x Corinthians</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807073000 -0300" stop="20180807083000 -0300" channel="SPORTV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807083000 -0300" stop="20180807090000 -0300" channel="SPORTV HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807090000 -0300" stop="20180807094500 -0300" channel="SPORTV HD">
+    <title lang="pt">Planeta SporTV - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do esporte pelo mundo, a repercussão internacional e os aspectos culturais do esporte lá fora, com correspondentes na Europa, EUA, Ásia e Américas pra rodar o mundo sem sair do lugar(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807094500 -0300" stop="20180807120000 -0300" channel="SPORTV HD">
+    <title lang="pt">Redação SporTV - Ao Vivo</title>
+    <desc lang="pt">André Rizek recebe jornalistas convidados para discutir o esporte e rodar o Brasil com notícias de norte a sul. Direto da redação do SporTV, o programa repercute as notícias do rádio, TV, impresso e online(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807120000 -0300" stop="20180807124500 -0300" channel="SPORTV HD">
+    <title lang="pt">É Gol - Ao Vivo</title>
+    <desc lang="pt">Conheça o novo É Gol Novo estúdio, novos quadros e nova apresentadora, Ana Helena Goebel. Não perca De segunda a sexta, sempre ao meio-dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807124500 -0300" stop="20180807160000 -0300" channel="SPORTV HD">
+    <title lang="pt">Seleção SporTV - Ao Vivo</title>
+    <desc lang="pt">Seleção SporTV, tudo sobre futebol O balanço da rodada e os jogos que vem por aí num debate inteligente e com convidados diários. Além de muita interatividade e as criativas hashtags. O comando é de Marcelo Barreto(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807160000 -0300" stop="20180807163000 -0300" channel="SPORTV HD">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807163000 -0300" stop="20180807183000 -0300" channel="SPORTV HD">
+    <title lang="pt">Taça BH de Futebol Sub-17 - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807183000 -0300" stop="20180807191500 -0300" channel="SPORTV HD">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807191500 -0300" stop="20180807211500 -0300" channel="SPORTV HD">
+    <title lang="pt">Figueirense x CRB - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807211500 -0300" stop="20180807213000 -0300" channel="SPORTV HD">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807213000 -0300" stop="20180807233000 -0300" channel="SPORTV HD">
+    <title lang="pt">Atlético GO x Paysandu - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807233000 -0300" stop="20180808010000 -0300" channel="SPORTV HD">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+    <desc lang="pt">Tiago Maranhão e Roger Flores comandam o novo Troca, agora de terça a domingo e com novo estúdio. Sempre após a rodada, acompanhe a melhor análise pós-jogo da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808010000 -0300" stop="20180808020000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Vasco x Corinthians</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808020000 -0300" stop="20180808030000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Flamengo x Sport</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808030000 -0300" stop="20180808040000 -0300" channel="SPORTV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808040000 -0300" stop="20180808050000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Palmeiras x Paraná</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808050000 -0300" stop="20180808060000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Cruzeiro x São Paulo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808060000 -0300" stop="20180808073000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Flamengo x Sport</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808073000 -0300" stop="20180808083000 -0300" channel="SPORTV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808083000 -0300" stop="20180808090000 -0300" channel="SPORTV HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808090000 -0300" stop="20180808094500 -0300" channel="SPORTV HD">
+    <title lang="pt">Planeta SporTV - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do esporte pelo mundo, a repercussão internacional e os aspectos culturais do esporte lá fora, com correspondentes na Europa, EUA, Ásia e Américas pra rodar o mundo sem sair do lugar(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808094500 -0300" stop="20180808120000 -0300" channel="SPORTV HD">
+    <title lang="pt">Redação SporTV - Ao Vivo</title>
+    <desc lang="pt">André Rizek recebe jornalistas convidados para discutir o esporte e rodar o Brasil com notícias de norte a sul. Direto da redação do SporTV, o programa repercute as notícias do rádio, TV, impresso e online(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808120000 -0300" stop="20180808124500 -0300" channel="SPORTV HD">
+    <title lang="pt">É Gol - Ao Vivo</title>
+    <desc lang="pt">Conheça o novo É Gol Novo estúdio, novos quadros e nova apresentadora, Ana Helena Goebel. Não perca De segunda a sexta, sempre ao meio-dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808124500 -0300" stop="20180808160000 -0300" channel="SPORTV HD">
+    <title lang="pt">Seleção SporTV - Ao Vivo</title>
+    <desc lang="pt">Seleção SporTV, tudo sobre futebol O balanço da rodada e os jogos que vem por aí num debate inteligente e com convidados diários. Além de muita interatividade e as criativas hashtags. O comando é de Marcelo Barreto(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808160000 -0300" stop="20180808170000 -0300" channel="SPORTV HD">
+    <title lang="pt">Giro da Rodada - Ao Vivo</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808170000 -0300" stop="20180808183000 -0300" channel="SPORTV HD">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+    <desc lang="pt">A dupla Bárbara Coelho e Thiago Oliveira comanda o Tá na Área, programa diário que fala um pouco de todos os esportes, acompanha o dia a dia dos principais clubes de futebol do Brasil e ainda tem matérias e entrevistas exclusivas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808183000 -0300" stop="20180808191500 -0300" channel="SPORTV HD">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808191500 -0300" stop="20180808211500 -0300" channel="SPORTV HD">
+    <title lang="pt">Avaí x CSA - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808211500 -0300" stop="20180808213000 -0300" channel="SPORTV HD">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808213000 -0300" stop="20180808233000 -0300" channel="SPORTV HD">
+    <title lang="pt">Paysandu x Figueirense - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808233000 -0300" stop="20180809010000 -0300" channel="SPORTV HD">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+    <desc lang="pt">Tiago Maranhão e Roger Flores comandam o novo Troca, agora de terça a domingo e com novo estúdio. Sempre após a rodada, acompanhe a melhor análise pós-jogo da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809010000 -0300" stop="20180809023000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Corinthians x Cruzeiro</title>
+    <desc lang="pt">É o Nosso Futebol Nesse país de especialistas em futebol, só com a dobradinha SporTV e Premiere você tem a entrega completa do Brasileirão Séries A e B. Reveja agora mais um jogão(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809023000 -0300" stop="20180809033000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Fluminense x Palmeiras</title>
+    <desc lang="pt">É o Nosso Futebol Nesse país de especialistas em futebol, só com a dobradinha SporTV e Premiere você tem a entrega completa do Brasileirão Séries A e B. Reveja agora mais um jogão(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809033000 -0300" stop="20180809043000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Santos x Flamengo</title>
+    <desc lang="pt">É o Nosso Futebol Nesse país de especialistas em futebol, só com a dobradinha SporTV e Premiere você tem a entrega completa do Brasileirão Séries A e B. Reveja agora mais um jogão(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809043000 -0300" stop="20180809053000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Corinthians x Cruzeiro</title>
+    <desc lang="pt">É o Nosso Futebol Nesse país de especialistas em futebol, só com a dobradinha SporTV e Premiere você tem a entrega completa do Brasileirão Séries A e B. Reveja agora mais um jogão(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809053000 -0300" stop="20180809063000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - LDU (EQU) x Vasco</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809063000 -0300" stop="20180809073000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Santos x Flamengo</title>
+    <desc lang="pt">É o Nosso Futebol Nesse país de especialistas em futebol, só com a dobradinha SporTV e Premiere você tem a entrega completa do Brasileirão Séries A e B. Reveja agora mais um jogão(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809073000 -0300" stop="20180809083000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Corinthians x Cruzeiro</title>
+    <desc lang="pt">É o Nosso Futebol Nesse país de especialistas em futebol, só com a dobradinha SporTV e Premiere você tem a entrega completa do Brasileirão Séries A e B. Reveja agora mais um jogão(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809083000 -0300" stop="20180809090000 -0300" channel="SPORTV HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809090000 -0300" stop="20180809094500 -0300" channel="SPORTV HD">
+    <title lang="pt">Planeta SporTV - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do esporte pelo mundo, a repercussão internacional e os aspectos culturais do esporte lá fora, com correspondentes na Europa, EUA, Ásia e Américas pra rodar o mundo sem sair do lugar(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809094500 -0300" stop="20180809120000 -0300" channel="SPORTV HD">
+    <title lang="pt">Redação SporTV - Ao Vivo</title>
+    <desc lang="pt">André Rizek recebe jornalistas convidados para discutir o esporte e rodar o Brasil com notícias de norte a sul. Direto da redação do SporTV, o programa repercute as notícias do rádio, TV, impresso e online(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809120000 -0300" stop="20180809124500 -0300" channel="SPORTV HD">
+    <title lang="pt">É Gol - Ao Vivo</title>
+    <desc lang="pt">Conheça o novo É Gol Novo estúdio, novos quadros e nova apresentadora, Ana Helena Goebel. Não perca De segunda a sexta, sempre ao meio-dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809124500 -0300" stop="20180809160000 -0300" channel="SPORTV HD">
+    <title lang="pt">Seleção SporTV - Ao Vivo</title>
+    <desc lang="pt">Seleção SporTV, tudo sobre futebol O balanço da rodada e os jogos que vem por aí num debate inteligente e com convidados diários. Além de muita interatividade e as criativas hashtags. O comando é de Marcelo Barreto(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809160000 -0300" stop="20180809180000 -0300" channel="SPORTV HD">
+    <title lang="pt">Campeonato Brasileiro de Futebol Sub-20: Vitória X Botafogo - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809180000 -0300" stop="20180809190000 -0300" channel="SPORTV HD">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+    <desc lang="pt">A dupla Bárbara Coelho e Thiago Oliveira comanda o Tá na Área, programa diário que fala um pouco de todos os esportes, acompanha o dia a dia dos principais clubes de futebol do Brasil e ainda tem matérias e entrevistas exclusivas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809190000 -0300" stop="20180809200000 -0300" channel="SPORTV HD">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809200000 -0300" stop="20180809220000 -0300" channel="SPORTV HD">
+    <title lang="pt">América MG x Internacional - Ao Vivo</title>
+    <desc lang="pt">É o Nosso Futebol Nesse país de especialistas em futebol, só com a dobradinha SporTV e Premiere você tem a entrega completa do Brasileirão Séries A e B. Assista agora a mais um jogão ao vivo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809220000 -0300" stop="20180809233000 -0300" channel="SPORTV HD">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+    <desc lang="pt">Tiago Maranhão e Roger Flores comandam o novo Troca, agora de terça a domingo e com novo estúdio. Sempre após a rodada, acompanhe a melhor análise pós-jogo da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809233000 -0300" stop="20180810003000 -0300" channel="SPORTV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810003000 -0300" stop="20180810013000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Santos x Flamengo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810013000 -0300" stop="20180810023000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Grêmio x São Paulo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810023000 -0300" stop="20180810033000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - LDU (EQU) x Vasco</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810033000 -0300" stop="20180810043000 -0300" channel="SPORTV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810043000 -0300" stop="20180810053000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Fluminense x Palmeiras</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810053000 -0300" stop="20180810063000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Corinthians x Cruzeiro</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810063000 -0300" stop="20180810073000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Grêmio x São Paulo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810073000 -0300" stop="20180810083000 -0300" channel="SPORTV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810083000 -0300" stop="20180810090000 -0300" channel="SPORTV HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810090000 -0300" stop="20180810094500 -0300" channel="SPORTV HD">
+    <title lang="pt">Planeta SporTV - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do esporte pelo mundo, a repercussão internacional e os aspectos culturais do esporte lá fora, com correspondentes na Europa, EUA, Ásia e Américas pra rodar o mundo sem sair do lugar(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810094500 -0300" stop="20180810120000 -0300" channel="SPORTV HD">
+    <title lang="pt">Redação SporTV - Ao Vivo</title>
+    <desc lang="pt">André Rizek recebe jornalistas convidados para discutir o esporte e rodar o Brasil com notícias de norte a sul. Direto da redação do SporTV, o programa repercute as notícias do rádio, TV, impresso e online(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810120000 -0300" stop="20180810124500 -0300" channel="SPORTV HD">
+    <title lang="pt">É Gol - Ao Vivo</title>
+    <desc lang="pt">Conheça o novo É Gol Novo estúdio, novos quadros e nova apresentadora, Ana Helena Goebel. Não perca De segunda a sexta, sempre ao meio-dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810124500 -0300" stop="20180810160000 -0300" channel="SPORTV HD">
+    <title lang="pt">Seleção SporTV - Ao Vivo</title>
+    <desc lang="pt">Seleção SporTV, tudo sobre futebol O balanço da rodada e os jogos que vem por aí num debate inteligente e com convidados diários. Além de muita interatividade e as criativas hashtags. O comando é de Marcelo Barreto(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810160000 -0300" stop="20180810170000 -0300" channel="SPORTV HD">
+    <title lang="pt">Giro da Rodada - Ao Vivo</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810170000 -0300" stop="20180810183000 -0300" channel="SPORTV HD">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+    <desc lang="pt">A dupla Bárbara Coelho e Thiago Oliveira comanda o Tá na Área, programa diário que fala um pouco de todos os esportes, acompanha o dia a dia dos principais clubes de futebol do Brasil e ainda tem matérias e entrevistas exclusivas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810183000 -0300" stop="20180810191500 -0300" channel="SPORTV HD">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810191500 -0300" stop="20180810211500 -0300" channel="SPORTV HD">
+    <title lang="pt">Avaí x CSA - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810211500 -0300" stop="20180810213000 -0300" channel="SPORTV HD">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810213000 -0300" stop="20180810233000 -0300" channel="SPORTV HD">
+    <title lang="pt">Paysandu x Figueirense - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810233000 -0300" stop="20180811010000 -0300" channel="SPORTV HD">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+    <desc lang="pt">Tiago Maranhão e Roger Flores comandam o novo Troca, agora de terça a domingo e com novo estúdio. Sempre após a rodada, acompanhe a melhor análise pós-jogo da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811010000 -0300" stop="20180811013000 -0300" channel="SPORTV HD">
+    <title lang="pt">Boteco do Escobar</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811013000 -0300" stop="20180811023000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Santos x Flamengo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811023000 -0300" stop="20180811033000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Corinthians x Cruzeiro</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811033000 -0300" stop="20180811043000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Grêmio x São Paulo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811043000 -0300" stop="20180811053000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - América MG x Internacional</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811053000 -0300" stop="20180811063000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - LDU (EQU) x Vasco</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811063000 -0300" stop="20180811073000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Fluminense x Palmeiras</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811073000 -0300" stop="20180811083000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Grêmio x São Paulo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811083000 -0300" stop="20180811093000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Santos x Flamengo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811093000 -0300" stop="20180811103000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Corinthians x Cruzeiro</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811103000 -0300" stop="20180811111500 -0300" channel="SPORTV HD">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+    <desc lang="pt">A dupla Bárbara Coelho e Thiago Oliveira comanda o Tá na Área, programa diário que fala um pouco de todos os esportes, acompanha o dia a dia dos principais clubes de futebol do Brasil e ainda tem matérias e entrevistas exclusivas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811111500 -0300" stop="20180811113000 -0300" channel="SPORTV HD">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811113000 -0300" stop="20180811133000 -0300" channel="SPORTV HD">
+    <title lang="pt">Taça BH de Futebol Sub-17 - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811133000 -0300" stop="20180811140000 -0300" channel="SPORTV HD">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811140000 -0300" stop="20180811155000 -0300" channel="SPORTV HD">
+    <title lang="pt">Taça BH de Futebol Sub-17 - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811155000 -0300" stop="20180811163000 -0300" channel="SPORTV HD">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811163000 -0300" stop="20180811183000 -0300" channel="SPORTV HD">
+    <title lang="pt">Juventude x Fortaleza - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811183000 -0300" stop="20180811190000 -0300" channel="SPORTV HD">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811190000 -0300" stop="20180811210000 -0300" channel="SPORTV HD">
+    <title lang="pt">Coritiba x Ponte Preta - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811210000 -0300" stop="20180811223000 -0300" channel="SPORTV HD">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+    <desc lang="pt">Tiago Maranhão e Roger Flores comandam o novo Troca, agora de terça a domingo e com novo estúdio. Sempre após a rodada, acompanhe a melhor análise pós-jogo da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811223000 -0300" stop="20180811233000 -0300" channel="SPORTV HD">
+    <title lang="pt">VT - Ceará x Fluminense</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805000000 -0300" stop="20180805013000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bola da Vez</title>
+    <desc lang="pt">A cada semana, Dan Stulbach entrevista uma importante personalidade do esporte, que também terá de encarar as melhores e mais instigantes perguntas da bancada de jornalistas da ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805013000 -0300" stop="20180805020000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Mundo Premier League</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805020000 -0300" stop="20180805040000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Major League Soccer</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805040000 -0300" stop="20180805050000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805050000 -0300" stop="20180805070000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Premier League</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805070000 -0300" stop="20180805090000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Major League Soccer</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805090000 -0300" stop="20180805100000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805100000 -0300" stop="20180805103000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Mundo Premier League</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805103000 -0300" stop="20180805123000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Campeonato Inglês: 2ª Divisão</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805123000 -0300" stop="20180805143000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Campeonato Inglês: 2ª Divisão</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805143000 -0300" stop="20180805160000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bate-Bola - Ao Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805160000 -0300" stop="20180805180000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Premier League</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805180000 -0300" stop="20180805200000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Major League Soccer</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805200000 -0300" stop="20180805203000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Futebol No Mundo - Ao Vivo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805203000 -0300" stop="20180805220000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bate-Bola - Ao Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805220000 -0300" stop="20180805233000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Resenha ESPN - Ao Vivo</title>
+    <desc lang="pt">Domingo é dia de resenha No comando do programa, André Plihal convoca quem mais entende do riscado: os craques da ESPN, Alex e Sorin, além de convidados especiais. Todo domingo, às 22h(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805233000 -0300" stop="20180806003000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806003000 -0300" stop="20180806020000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Resenha ESPN</title>
+    <desc lang="pt">Domingo é dia de resenha No comando do programa, André Plihal convoca quem mais entende do riscado: os craques da ESPN, Alex e Sorin, além de convidados especiais. Todo domingo, às 22h(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806020000 -0300" stop="20180806040000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Campeonato Inglês: 2ª Divisão</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806040000 -0300" stop="20180806050000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806050000 -0300" stop="20180806053000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Futebol No Mundo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806053000 -0300" stop="20180806073000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Campeonato Inglês: 2ª Divisão</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806073000 -0300" stop="20180806090000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Resenha ESPN</title>
+    <desc lang="pt">Domingo é dia de resenha No comando do programa, André Plihal convoca quem mais entende do riscado: os craques da ESPN, Alex e Sorin, além de convidados especiais. Todo domingo, às 22h(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806090000 -0300" stop="20180806100000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">ESPN AGORA - Ao Vivo</title>
+    <desc lang="pt">O melhor pacote de futebol está nos canais ESPN. Acompanhe durante toda a temporada jogos amistosos entre grandes times do mundo e também o encontro entre seleções de diversos países(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806100000 -0300" stop="20180806115500 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bate-Bola Bom Dia - Ao Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806115500 -0300" stop="20180806125500 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806125500 -0300" stop="20180806153000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bate-Bola Debate - Ao Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806153000 -0300" stop="20180806170000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">ESPN AGORA - Ao Vivo</title>
+    <desc lang="pt">O melhor pacote de futebol está nos canais ESPN. Acompanhe durante toda a temporada jogos amistosos entre grandes times do mundo e também o encontro entre seleções de diversos países(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806170000 -0300" stop="20180806180000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Futebol No Mundo - Ao Vivo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806180000 -0300" stop="20180806210000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bate-Bola Na Veia - Ao Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806210000 -0300" stop="20180806220000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806220000 -0300" stop="20180807000000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Linha de Passe: Mesa Redonda - Ao Vivo</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807000000 -0300" stop="20180807010000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807010000 -0300" stop="20180807030000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807030000 -0300" stop="20180807040000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Futebol No Mundo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807040000 -0300" stop="20180807050000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807050000 -0300" stop="20180807070000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Major League Soccer</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807070000 -0300" stop="20180807090000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807090000 -0300" stop="20180807100000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">ESPN AGORA - Ao Vivo</title>
+    <desc lang="pt">O melhor pacote de futebol está nos canais ESPN. Acompanhe durante toda a temporada jogos amistosos entre grandes times do mundo e também o encontro entre seleções de diversos países(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807100000 -0300" stop="20180807115500 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bate-Bola Bom Dia - Ao Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807115500 -0300" stop="20180807125500 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807125500 -0300" stop="20180807153000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bate-Bola Debate - Ao Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807153000 -0300" stop="20180807163000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Brasileirão ESPN - Ao Vivo</title>
+    <desc lang="pt">Tudo sobre o campeonato brasileiro, em três edições: na sexta, uma prévia da rodada. No domingo, os gols e os melhores momentos de todas as partidas. E na segunda, uma edição compacta, logo após o bate-bola 2ª edição(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807163000 -0300" stop="20180807173000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">ESPN AGORA - Ao Vivo</title>
+    <desc lang="pt">O melhor pacote de futebol está nos canais ESPN. Acompanhe durante toda a temporada jogos amistosos entre grandes times do mundo e também o encontro entre seleções de diversos países(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807173000 -0300" stop="20180807180000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Futebol No Mundo - Ao Vivo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807180000 -0300" stop="20180807203000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bate-Bola Na Veia - Ao Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807203000 -0300" stop="20180807213000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807213000 -0300" stop="20180807230000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bola da Vez</title>
+    <desc lang="pt">A cada semana, Dan Stulbach entrevista uma importante personalidade do esporte, que também terá de encarar as melhores e mais instigantes perguntas da bancada de jornalistas da ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180807230000 -0300" stop="20180808000000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808000000 -0300" stop="20180808013000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bola da Vez</title>
+    <desc lang="pt">A cada semana, Dan Stulbach entrevista uma importante personalidade do esporte, que também terá de encarar as melhores e mais instigantes perguntas da bancada de jornalistas da ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808013000 -0300" stop="20180808023000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Brasileirão ESPN</title>
+    <desc lang="pt">Tudo sobre o campeonato brasileiro, em três edições: na sexta, uma prévia da rodada. No domingo, os gols e os melhores momentos de todas as partidas. E na segunda, uma edição compacta, logo após o bate-bola 2ª edição(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808023000 -0300" stop="20180808043000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Campeonato Inglês: 2ª Divisão</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808043000 -0300" stop="20180808053000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808053000 -0300" stop="20180808060000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Futebol No Mundo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808060000 -0300" stop="20180808063000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Mundo Premier League</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808063000 -0300" stop="20180808080000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bola da Vez</title>
+    <desc lang="pt">A cada semana, Dan Stulbach entrevista uma importante personalidade do esporte, que também terá de encarar as melhores e mais instigantes perguntas da bancada de jornalistas da ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808080000 -0300" stop="20180808090000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Brasileirão ESPN</title>
+    <desc lang="pt">Tudo sobre o campeonato brasileiro, em três edições: na sexta, uma prévia da rodada. No domingo, os gols e os melhores momentos de todas as partidas. E na segunda, uma edição compacta, logo após o bate-bola 2ª edição(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808090000 -0300" stop="20180808100000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">ESPN AGORA - Ao Vivo</title>
+    <desc lang="pt">O melhor pacote de futebol está nos canais ESPN. Acompanhe durante toda a temporada jogos amistosos entre grandes times do mundo e também o encontro entre seleções de diversos países(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808100000 -0300" stop="20180808115500 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bate-Bola Bom Dia - Ao Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808115500 -0300" stop="20180808125500 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808125500 -0300" stop="20180808153000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bate-Bola Debate - Ao Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808153000 -0300" stop="20180808170000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">ESPN AGORA - Ao Vivo</title>
+    <desc lang="pt">O melhor pacote de futebol está nos canais ESPN. Acompanhe durante toda a temporada jogos amistosos entre grandes times do mundo e também o encontro entre seleções de diversos países(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808170000 -0300" stop="20180808180000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Futebol No Mundo - Ao Vivo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808180000 -0300" stop="20180808211000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bate-Bola Na Veia - Ao Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808211000 -0300" stop="20180808221000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808221000 -0300" stop="20180808234000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Resenha ESPN</title>
+    <desc lang="pt">Domingo é dia de resenha No comando do programa, André Plihal convoca quem mais entende do riscado: os craques da ESPN, Alex e Sorin, além de convidados especiais. Todo domingo, às 22h(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180808234000 -0300" stop="20180809004000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Linha de Passe: Mesa Redonda - Ao Vivo</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809004000 -0300" stop="20180809014000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809014000 -0300" stop="20180809031000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bola da Vez Nordeste</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809031000 -0300" stop="20180809041000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809041000 -0300" stop="20180809051000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809051000 -0300" stop="20180809061000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Futebol No Mundo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809061000 -0300" stop="20180809080000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Campeonato Espanhol</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809080000 -0300" stop="20180809090000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809090000 -0300" stop="20180809100000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">ESPN AGORA - Ao Vivo</title>
+    <desc lang="pt">O melhor pacote de futebol está nos canais ESPN. Acompanhe durante toda a temporada jogos amistosos entre grandes times do mundo e também o encontro entre seleções de diversos países(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809100000 -0300" stop="20180809115500 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bate-Bola Bom Dia - Ao Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809115500 -0300" stop="20180809125500 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809125500 -0300" stop="20180809153000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bate-Bola Debate - Ao Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809153000 -0300" stop="20180809170000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">ESPN AGORA - Ao Vivo</title>
+    <desc lang="pt">O melhor pacote de futebol está nos canais ESPN. Acompanhe durante toda a temporada jogos amistosos entre grandes times do mundo e também o encontro entre seleções de diversos países(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809170000 -0300" stop="20180809180000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Futebol No Mundo - Ao Vivo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809180000 -0300" stop="20180809203000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bate-Bola Na Veia - Ao Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809203000 -0300" stop="20180809213000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809213000 -0300" stop="20180809230000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Resenha ESPN</title>
+    <desc lang="pt">Domingo é dia de resenha No comando do programa, André Plihal convoca quem mais entende do riscado: os craques da ESPN, Alex e Sorin, além de convidados especiais. Todo domingo, às 22h(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180809230000 -0300" stop="20180810000000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810000000 -0300" stop="20180810013000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bola da Vez</title>
+    <desc lang="pt">A cada semana, Dan Stulbach entrevista uma importante personalidade do esporte, que também terá de encarar as melhores e mais instigantes perguntas da bancada de jornalistas da ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810013000 -0300" stop="20180810023000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Futebol No Mundo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810023000 -0300" stop="20180810033000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810033000 -0300" stop="20180810053000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Campeonato Espanhol</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810053000 -0300" stop="20180810073000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Premier League</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810073000 -0300" stop="20180810090000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Resenha ESPN</title>
+    <desc lang="pt">Domingo é dia de resenha No comando do programa, André Plihal convoca quem mais entende do riscado: os craques da ESPN, Alex e Sorin, além de convidados especiais. Todo domingo, às 22h(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810090000 -0300" stop="20180810100000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">ESPN AGORA - Ao Vivo</title>
+    <desc lang="pt">O melhor pacote de futebol está nos canais ESPN. Acompanhe durante toda a temporada jogos amistosos entre grandes times do mundo e também o encontro entre seleções de diversos países(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810100000 -0300" stop="20180810115500 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bate-Bola Bom Dia - Ao Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810115500 -0300" stop="20180810125500 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810125500 -0300" stop="20180810152500 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bate-Bola Debate - Ao Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810152500 -0300" stop="20180810173000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Campeonato Inglês: 2ª Divisão - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810173000 -0300" stop="20180810180000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Futebol No Mundo - Ao Vivo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810180000 -0300" stop="20180810200000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bate-Bola Na Veia - Ao Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810200000 -0300" stop="20180810210000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810210000 -0300" stop="20180810230000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Linha de Passe: Mesa Redonda - Ao Vivo</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180810230000 -0300" stop="20180811000000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811000000 -0300" stop="20180811020000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811020000 -0300" stop="20180811023000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Mundo Premier League</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811023000 -0300" stop="20180811030000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Match Pack</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811030000 -0300" stop="20180811033000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Futebol No Mundo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811033000 -0300" stop="20180811043000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811043000 -0300" stop="20180811063000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Campeonato Inglês: 2ª Divisão</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811063000 -0300" stop="20180811083000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811083000 -0300" stop="20180811103000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Premier League - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811103000 -0300" stop="20180811110000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Abre o Jogo: Premier League - Ao Vivo</title>
+    <desc lang="pt">O(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811110000 -0300" stop="20180811130000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Premier League - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811130000 -0300" stop="20180811133000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Abre o Jogo: Premier League - Ao Vivo</title>
+    <desc lang="pt">O(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811133000 -0300" stop="20180811153000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Premier League - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811153000 -0300" stop="20180811173000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Campeonato Espanhol</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811173000 -0300" stop="20180811200000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bate-Bola - Ao Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811200000 -0300" stop="20180811213000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bola da Vez</title>
+    <desc lang="pt">A cada semana, Dan Stulbach entrevista uma importante personalidade do esporte, que também terá de encarar as melhores e mais instigantes perguntas da bancada de jornalistas da ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811213000 -0300" stop="20180811230000 -0300" channel="ESPN BRASIL HD">
+    <title lang="pt">Bate-Bola - Ao Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180805002000 -0300" stop="20180805021500 -0300" channel="HBO HD">
+    <title lang="pt">Além da Morte</title>
+    <desc lang="pt">Estudantes de medicina começam a explorar o reino das experiências de quase morte. Cada um deles passa pela experiência de ter o coração parado e depois revivido(n)</desc>
+    <credits>
+      <director>Niels Arden Oplev</director>
+      <actor>Ellen Page</actor>
+      <actor>Diego Luna</actor>
+      <actor>Nina Dobrev</actor>
+      <actor>James Norton</actor>
+      <actor>Kiersey Clemons</actor>
+      <actor>Kiefer Sutherland</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180805021500 -0300" stop="20180805043500 -0300" channel="HBO HD">
+    <title lang="pt">Manchester à Beira-Mar</title>
+    <desc lang="pt">Lee é forçado a retornar para sua cidade natal para tomar conta de seu sobrinho após o pai dele, seu irmão, falecer. Este retorno ficará ainda mais complicado quando Lee precisar enfrentar as razões que o fizeram ir embora(n)</desc>
+    <credits>
+      <director>Kenneth Lonergan</director>
+      <actor>Casey Affleck</actor>
+      <actor>Michelle Williams</actor>
+      <actor>Kyle Chandler</actor>
+      <actor>Richard Donelly</actor>
+      <actor>Virginia Loring Cooke</actor>
+      <actor>Mary mallen</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180805043500 -0300" stop="20180805061500 -0300" channel="HBO HD">
+    <title lang="pt">Jackie</title>
+    <desc lang="pt">Criadas por um casal homossexual, duas irmãs gêmeas viajam para os Estados Unidos para ajudar a mãe biológica. Elas embarcam em uma jornada inesquecível com a excêntrica Jackie, e suas vidas nunca mais serão a mesma(n)</desc>
+    <credits>
+      <director>Antoinette Beumer</director>
+      <actor>Holly Hunter</actor>
+      <actor>Carice Van Houten</actor>
+      <actor>Jelka Van Houten</actor>
+      <actor>Valerie Adams</actor>
+      <actor>Luis Bordonada</actor>
+      <actor>Chadwick Brown</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180805061500 -0300" stop="20180805081500 -0300" channel="HBO HD">
+    <title lang="pt">Lion: Uma Jornada Para Casa</title>
+    <desc lang="pt">Em 1986, Saroo, um garoto de cinco anos, se perde nas ruas de Calcutá a milhares de quilômetros de sua casa. Após inúmeras dificuldades, a criança é adotada por um amoroso casal australiano e se muda para a Tasmânia(n)</desc>
+    <credits>
+      <director>Garth Davis</director>
+      <actor>Sunny Pawar</actor>
+      <actor>Tannishtha Chatterjee</actor>
+      <actor>Nawazuddin Siddiqui</actor>
+      <actor>David Wenham</actor>
+      <actor>Abhishek Bharate</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Dev Patel</actor>
+      <actor>Rooney Mara</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180805081500 -0300" stop="20180805084000 -0300" channel="HBO HD">
+    <title lang="pt">Especial Sr. Avila: A Morte Tambem Tem Um Fim Vr Brazil</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180805084000 -0300" stop="20180805102000 -0300" channel="HBO HD">
+    <title lang="pt">A Torre Negra</title>
+    <desc lang="pt">Um pistoleiro chamado Roland Deschain percorre o mundo em busca da famosa Torre Negra. Essa busca envolve uma intensa perseguição ao poderoso Homem de Preto(n)</desc>
+    <credits>
+      <director>Nikolaj Arcel</director>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180805102000 -0300" stop="20180805121000 -0300" channel="HBO HD">
+    <title lang="pt">Resident Evil 6: O Capítulo Final</title>
+    <desc lang="pt">Sobrevivente do massacre zumbi, Alice retorna para onde o pesadelo começou, Raccoon City, onde a Umbrella Corporation reúne suas forças para um ataque final contra os remanescentes do apocalipse(n)</desc>
+    <credits>
+      <director>Paul W.S. Anderson</director>
+      <actor>Milla Jovovich</actor>
+      <actor>Iain Glen</actor>
+      <actor>Ali Larter</actor>
+      <actor>Shawn Roberts</actor>
+      <actor>Eoin Macken</actor>
+      <actor>Fraser James</actor>
+      <actor>Ruby Rose</actor>
+      <actor>William Levy</actor>
+      <actor>Ever Anderson</actor>
+      <actor>Mark Simpson</actor>
+      <actor>Milton Schorr</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180805121000 -0300" stop="20180805124500 -0300" channel="HBO HD">
+    <title lang="pt">Greg News Com Gregório Duvivier</title>
+    <desc lang="pt">O humorístico terá um formato um pouco diferente dos programas de entrevista no ar, no qual o apresentador irá comentar as notícias do Brasil e do mundo(n)</desc>
+    <credits>
+      <director>Alessandra Orofino</director>
+      <actor>Gregório Duvivier</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E19</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180805124500 -0300" stop="20180805132000 -0300" channel="HBO HD">
+    <title lang="pt">Vice</title>
+    <desc lang="pt">Vice traz reportagens sem nenhum tipo de filtro, revelando feitos escandalosos e surpreendentes dos lugares mais perigosos do mundo e eventos impressionantes que jamais estariam nas notícias(n)</desc>
+    <credits>
+      <director>David Mandel</director>
+      <actor>Michael Kenneth Williams</actor>
+      <actor>Felicia Pearson</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S6 E11</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180805132000 -0300" stop="20180805154000 -0300" channel="HBO HD">
+    <title lang="pt">Invocação do Mal 2</title>
+    <desc lang="pt">Sete anos após os eventos de Invocação do Mal, Lorraine e Ed Warren desembarcam na Inglaterra para ajudar uma família atormentada por uma manifestação poltergeist na filha(n)</desc>
+    <credits>
+      <director>James Wan</director>
+      <actor>Patrick Wilson</actor>
+      <actor>Vera Farmiga</actor>
+      <actor>Madison Wolfe</actor>
+      <actor>Frances O'Connor</actor>
+      <actor>Lauren Esposito</actor>
+      <actor>Benjamin Haigh</actor>
+      <actor>Patrick McAuley</actor>
+      <actor>Simon McBurney</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180805154000 -0300" stop="20180805180000 -0300" channel="HBO HD">
+    <title lang="pt">Homem-Aranha - De Volta ao Lar</title>
+    <desc lang="pt">Após atuar ao lado dos Vingadores, o pequeno Peter Parker volta para casa e para a sua vida. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida(n)</desc>
+    <credits>
+      <director>Jon Watts</director>
+      <actor>Tom Holland</actor>
+      <actor>Michael Keaton</actor>
+      <actor>Robert Downey Jr</actor>
+      <actor>Marisa Tomei</actor>
+      <actor>Jon Favreau</actor>
+      <actor>Gwyneth Paltrow</actor>
+      <actor>Jacob Batalon</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180805180000 -0300" stop="20180805190000 -0300" channel="HBO HD">
+    <title lang="pt">Sharp Objects</title>
+    <desc lang="pt">Sharp Objects acompanha Camille, uma repórter criminalística recém-saída de um hospital psicológico devido a anos de violência auto-infligida(n)</desc>
+    <credits>
+      <director>Jean-Marc Vallée</director>
+      <actor>Amy Adams</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>Chris Messina</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180805190000 -0300" stop="20180805200000 -0300" channel="HBO HD">
+    <title lang="pt">Sharp Objects</title>
+    <desc lang="pt">Sharp Objects acompanha Camille, uma repórter criminalística recém-saída de um hospital psicológico devido a anos de violência auto-infligida(n)</desc>
+    <credits>
+      <director>Jean-Marc Vallée</director>
+      <actor>Amy Adams</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>Chris Messina</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180805200000 -0300" stop="20180805210000 -0300" channel="HBO HD">
+    <title lang="pt">Sharp Objects</title>
+    <desc lang="pt">Sharp Objects acompanha Camille, uma repórter criminalística recém-saída de um hospital psicológico devido a anos de violência auto-infligida(n)</desc>
+    <credits>
+      <director>Jean-Marc Vallée</director>
+      <actor>Amy Adams</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>Chris Messina</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180805210000 -0300" stop="20180805220300 -0300" channel="HBO HD">
+    <title lang="pt">Sr. Ávila</title>
+    <desc lang="pt">Ávila oculta uma vida dupla, mas esta não é sua única preocupação. Ele está diante de um dilema, depois que seu amigo Ybarra recebeu ordens para executar uma delicada missão e falhou(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20180805220300 -0300" stop="20180805230300 -0300" channel="HBO HD">
+    <title lang="pt">Sharp Objects</title>
+    <desc lang="pt">Camille concorda em mostrar para Richard algumas cenas do crime em Wind Gap, mesmo que isso abra velhas feridas(n)</desc>
+    <credits>
+      <director>Jean-Marc Vallée</director>
+      <actor>Amy Adams</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>Chris Messina</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180805230300 -0300" stop="20180806000300 -0300" channel="HBO HD">
+    <title lang="pt">Succession</title>
+    <desc lang="pt">Os Roys se encontram em um castelo inglês para o casamento de Shiv e Tom. As crianças se reúnem com a mãe Caroline, que é tão cruel quanto Logan(n)</desc>
+    <credits>
+      <director>Mark Mylod</director>
+      <actor>Sarah Snook</actor>
+      <actor>Brian Cox</actor>
+      <actor>Matthew Macfadyen</actor>
+      <actor>Kieran Culkin</actor>
+      <actor>Alan Ruck</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180806000300 -0300" stop="20180806010300 -0300" channel="HBO HD">
+    <title lang="pt">Sharp Objects</title>
+    <desc lang="pt">Camille concorda em mostrar para Richard algumas cenas do crime em Wind Gap, mesmo que isso abra velhas feridas(n)</desc>
+    <credits>
+      <director>Jean-Marc Vallée</director>
+      <actor>Amy Adams</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>Chris Messina</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180806010300 -0300" stop="20180806020300 -0300" channel="HBO HD">
+    <title lang="pt">Sr. Ávila</title>
+    <desc lang="pt">Ávila oculta uma vida dupla, mas esta não é sua única preocupação. Ele está diante de um dilema, depois que seu amigo Ybarra recebeu ordens para executar uma delicada missão e falhou(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20180806020300 -0300" stop="20180806041000 -0300" channel="HBO HD">
+    <title lang="pt">Atração Perigosa</title>
+    <desc lang="pt">Enquanto planeja seu próximo trabalho, um experiente ladrão tenta controlar seus sentimentos por uma gerente de banco que está ligada a um de seus roubos anteriores, enquanto um agente da FBI quer acabar com ele e sua equipe(n)</desc>
+    <credits>
+      <director>Ben Affleck</director>
+      <actor>Ben Affleck</actor>
+      <actor>Rebecca Hall</actor>
+      <actor>Jon Hamm</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Blake Lively</actor>
+      <actor>Titus Welliver</actor>
+      <actor>Pete Postlethwaite</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180806041000 -0300" stop="20180806050500 -0300" channel="HBO HD">
+    <title lang="pt">Quincy Jones: Queimando a Luz</title>
+    <desc lang="pt">Quincy Jones é um jovem comediante sobrevivente da luta contra um câncer terminal que, depois de contar sua história na televisão americana, estrelou seu primeiro especial de comédia pela HBO(n)</desc>
+    <credits>
+      <director>Mickey Blaine</director>
+      <actor>Quincy Jones</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180806050500 -0300" stop="20180806065500 -0300" channel="HBO HD">
+    <title lang="pt">Através da Máscara</title>
+    <desc lang="pt">Quando um ex-funcionário o trai, um mercenário de uma empresa britânica decide limpar seu próprio nome. Para isso ele deverá ganhar a confiança da mulher que ama(n)</desc>
+    <credits>
+      <director>Chad Burns</director>
+      <actor>Andrew Cheney</actor>
+      <actor>Kara Killmer</actor>
+      <actor>John Rhys-Davies</actor>
+      <actor>Annie Kitral</actor>
+      <actor>Alan Madlane</actor>
+      <actor>Adetokumboh M'Cormack</actor>
+      <actor>Annie Kitral</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180806065500 -0300" stop="20180806083500 -0300" channel="HBO HD">
+    <title lang="pt">Noites de Tormenta</title>
+    <desc lang="pt">Uma mulher com a vida em polvorosa e um homem em crise de consciência se conhecem em uma pousada, onde têm um fim de semana marcante. Começa aí um romance que mudará suas vidas(n)</desc>
+    <credits>
+      <director>George C. Wolfe</director>
+      <actor>Richard Gere</actor>
+      <actor>Diane Lane</actor>
+      <actor>Scott Glenn</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>Viola Davis</actor>
+      <actor>Becky Ann Baker</actor>
+      <actor>Linda Molloy</actor>
+      <actor>Pablo Schreiber</actor>
+      <actor>Mae Whitman</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180806083500 -0300" stop="20180806102500 -0300" channel="HBO HD">
+    <title lang="pt">Lego Batman: O Filme</title>
+    <desc lang="pt">Batman leva uma vida solitária como o herói de Gotham City. Quando o comissário Gordon se aposenta, quem assume em seu lugar é sua filha Barbara, que deseja implementar métodos de eficiência(n)</desc>
+    <credits>
+      <director>Chris McKay</director>
+      <actor>Will Arnett</actor>
+      <actor>Michael Cera</actor>
+      <actor>Rosario Dawson</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180806102500 -0300" stop="20180806115500 -0300" channel="HBO HD">
+    <title lang="pt">Virei um Gato</title>
+    <desc lang="pt">Ben é um executivo de sucesso, viciado em trabalho, que passa pouco tempo com a família. Para o aniversário da filha, ele compra um gato mas, a caminho de casa, Ben sofre um acidente e entra em coma(n)</desc>
+    <credits>
+      <director>Barry Sonnenfeld</director>
+      <actor>Kevin Spacey</actor>
+      <actor>Jennifer Garner</actor>
+      <actor>Robbie Amell</actor>
+      <actor>Cheryl Hines</actor>
+      <actor>Mark Consuelos</actor>
+      <actor>Christopher Walken</actor>
+      <actor>Teddy Sears</actor>
+      <actor>Jay Patterson</actor>
+      <actor>Serge Houde</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180806115500 -0300" stop="20180806122500 -0300" channel="HBO HD">
+    <title lang="pt">Especial Sr. Avila: A Morte Tambem Tem Um Fim Vr Brazil</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180806122500 -0300" stop="20180806141000 -0300" channel="HBO HD">
+    <title lang="pt">Arthur Miller: Escritor</title>
+    <desc lang="pt">Um olhar íntimo para a vida de Arthur Miller, um dos maiores escritores dos EUA no século XX, a partir da perspectiva de sua filha, a cineasta Rebecca Miller(n)</desc>
+    <credits>
+      <director>Rebecca Miller</director>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180806141000 -0300" stop="20180806160000 -0300" channel="HBO HD">
+    <title lang="pt">Dunkirk</title>
+    <desc lang="pt">Na Operação Dínamo, soldados aliados da Bélgica, do Império Britânico e da França são rodeados pelo exército alemão e devem ser resgatados durante uma feroz batalha no início da Segunda Guerra Mundial(n)</desc>
+    <credits>
+      <director>Christopher Nolan</director>
+      <actor>Fionn Whitehead</actor>
+      <actor>Damien Bonnard</actor>
+      <actor>Aneurin Barnard</actor>
+      <actor>Lee Armstrong</actor>
+      <actor>James Bloor</actor>
+      <actor>Barry Keoghan</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180806160000 -0300" stop="20180806182000 -0300" channel="HBO HD">
+    <title lang="pt">Invocação do Mal 2</title>
+    <desc lang="pt">Sete anos após os eventos de Invocação do Mal, Lorraine e Ed Warren desembarcam na Inglaterra para ajudar uma família atormentada por uma manifestação poltergeist na filha(n)</desc>
+    <credits>
+      <director>James Wan</director>
+      <actor>Patrick Wilson</actor>
+      <actor>Vera Farmiga</actor>
+      <actor>Madison Wolfe</actor>
+      <actor>Frances O'Connor</actor>
+      <actor>Lauren Esposito</actor>
+      <actor>Benjamin Haigh</actor>
+      <actor>Patrick McAuley</actor>
+      <actor>Simon McBurney</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180806182000 -0300" stop="20180806200000 -0300" channel="HBO HD">
+    <title lang="pt">Sully - O Herói do Rio Hudson</title>
+    <desc lang="pt">Logo após decolar do aeroporto de Nova York, uma revoada de pássaros atinge as turbinas do avião pilotado por Sully. Não vendo outra alternativa, ele realiza um pouso forçado em pleno rio Hudson(n)</desc>
+    <credits>
+      <director>Clint Eastwood</director>
+      <actor>Tom Hanks</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Valerie Mahaffey</actor>
+      <actor>Delphi Harrington</actor>
+      <actor>Mike O'Malley</actor>
+      <actor>Jamey Sheridan</actor>
+      <actor>Anna Gunn</actor>
+      <actor>Holt McCallany</actor>
+      <actor>Ahmed Lucan</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180806200000 -0300" stop="20180806210000 -0300" channel="HBO HD">
+    <title lang="pt">Succession</title>
+    <desc lang="pt">Os Roys se encontram em um castelo inglês para o casamento de Shiv e Tom. As crianças se reúnem com a mãe Caroline, que é tão cruel quanto Logan(n)</desc>
+    <credits>
+      <director>Mark Mylod</director>
+      <actor>Sarah Snook</actor>
+      <actor>Brian Cox</actor>
+      <actor>Matthew Macfadyen</actor>
+      <actor>Kieran Culkin</actor>
+      <actor>Alan Ruck</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180806210000 -0300" stop="20180806213000 -0300" channel="HBO HD">
+    <title lang="pt">Vice</title>
+    <desc lang="pt">Vice traz reportagens sem nenhum tipo de filtro, revelando feitos escandalosos e surpreendentes dos lugares mais perigosos do mundo e eventos impressionantes que jamais estariam nas notícias(n)</desc>
+    <credits>
+      <director>David Mandel</director>
+      <actor>Michael Kenneth Williams</actor>
+      <actor>Felicia Pearson</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S6 E13</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180806213000 -0300" stop="20180806220000 -0300" channel="HBO HD">
+    <title lang="pt">Last Week Tonight With John Oliver</title>
+    <desc lang="pt">John Oliver é o responsável por conduzir este programa de humor onde, durante trinta minutos, ele mostra um olhar satírico sobre as notícias, a política e fatos da atualidade(n)</desc>
+    <credits>
+      <director>Paul Pennolino</director>
+      <actor>John Oliver</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S5 E18</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180806220000 -0300" stop="20180806224500 -0300" channel="HBO HD">
+    <title lang="pt">Tour do Dopping</title>
+    <desc lang="pt">Um documentário que narra a prevalência de doping no mundo do ciclismo profissional(n)</desc>
+    <credits>
+      <director>Jake Szymanski</director>
+      <actor>Andy Samberg</actor>
+      <actor>Orlando Bloom</actor>
+      <actor>Freddie Highmore</actor>
+      <actor>John Cena</actor>
+      <actor>Daveed Diggs</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180806224500 -0300" stop="20180807002800 -0300" channel="HBO HD">
+    <title lang="pt">Jackie</title>
+    <desc lang="pt">Criadas por um casal homossexual, duas irmãs gêmeas viajam para os Estados Unidos para ajudar a mãe biológica. Elas embarcam em uma jornada inesquecível com a excêntrica Jackie, e suas vidas nunca mais serão a mesma(n)</desc>
+    <credits>
+      <director>Antoinette Beumer</director>
+      <actor>Holly Hunter</actor>
+      <actor>Carice Van Houten</actor>
+      <actor>Jelka Van Houten</actor>
+      <actor>Valerie Adams</actor>
+      <actor>Luis Bordonada</actor>
+      <actor>Chadwick Brown</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180807002800 -0300" stop="20180807013000 -0300" channel="HBO HD">
+    <title lang="pt">Sharp Objects</title>
+    <desc lang="pt">Camille concorda em mostrar para Richard algumas cenas do crime em Wind Gap, mesmo que isso abra velhas feridas(n)</desc>
+    <credits>
+      <director>Jean-Marc Vallée</director>
+      <actor>Amy Adams</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>Chris Messina</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180807013000 -0300" stop="20180807030000 -0300" channel="HBO HD">
+    <title lang="pt">Loucuras em Família</title>
+    <desc lang="pt">Três famílias diferentes decidem acampar no mesmo acampamento durante o feriado de 4 de julho, porém só há espaço para uma delas. Para decidir quem ficará no acampamento, as famílias terão que competir(n)</desc>
+    <credits>
+      <director>Fred Wolf</director>
+      <actor>Charlie Sheen</actor>
+      <actor>Chris Mulkey</actor>
+      <actor>Efren Ramirez</actor>
+      <actor>Clint Howard</actor>
+      <actor>Leah Remini</actor>
+      <actor>Naya Rivera</actor>
+      <actor>Finesse Mitchell</actor>
+      <actor>Charlotte McKinney</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180807030000 -0300" stop="20180807045500 -0300" channel="HBO HD">
+    <title lang="pt">O Duelista</title>
+    <desc lang="pt">Situado na Rússia imperial do século XIX, a história gira em torno de um veterano do exército aposentado que ganha a vida ao estabelecer duelos para aristocratas, uma prática comum da época(n)</desc>
+    <credits>
+      <director>Aleksey Mizgirev</director>
+      <actor>Pyotr Fyodorov</actor>
+      <actor>Vladimir Mashkov</actor>
+      <actor>Yuliya Khlynina</actor>
+      <actor>Yuri Kolokolnikov</actor>
+      <actor>Aleksandr Mizev</actor>
+      <actor>Aleksandra Serebryakova</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180807045500 -0300" stop="20180807062500 -0300" channel="HBO HD">
+    <title lang="pt">O Golpe</title>
+    <desc lang="pt">Após se mudar para o Havaí, um surfista se une a uma criminosa e a um perigoso homem de negócios, elaborando um plano para enganar um magnata(n)</desc>
+    <credits>
+      <director>George Armitage</director>
+      <actor>Morgan Freeman</actor>
+      <actor>Charlie Sheen</actor>
+      <actor>Owen Wilson</actor>
+      <actor>Gary Sinise</actor>
+      <actor>Butch Helemano</actor>
+      <actor>Vinnie Jones</actor>
+      <actor>Gregory Sporleder</actor>
+      <actor>Terry Ahue</actor>
+      <actor>Sara Foster</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180807062500 -0300" stop="20180807074500 -0300" channel="HBO HD">
+    <title lang="pt">Sob Medida</title>
+    <desc lang="pt">Conta a história de Bindleu0026 Keep, uma alfaiataria no Brooklyn que tem um olhar para além do homem-mulher e desenha figurinos para clientes transgêneros ou para aqueles que decidem não se contentar com gêneros binários(n)</desc>
+    <credits>
+      <director>Jason Benjamin</director>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180807074500 -0300" stop="20180807094500 -0300" channel="HBO HD">
+    <title lang="pt">Blade Runner - O Caçador de Andróides</title>
+    <desc lang="pt">No ano de 2019, um ex-policial é obrigado a descobrir e eliminar replicantes que retornam à Terra para cobrar vida mais longa ao seu criador(n)</desc>
+    <credits>
+      <director>Ridley Scott</director>
+      <actor>Harrison Ford</actor>
+      <actor>Rutger Hauer</actor>
+      <actor>Sean Young</actor>
+      <actor>Edward James Olmos</actor>
+      <actor>Daryl Hannah</actor>
+      <actor>M. Emett Walsh</actor>
+      <actor>William Sanderson</actor>
+      <actor>Brion James</actor>
+      <actor>Joe Turkel</actor>
+      <actor>Joanna Cassidy</actor>
+      <actor>James Hong</actor>
+      <actor>Hy Pyke</actor>
+    </credits>
+    <date>1982</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180807094500 -0300" stop="20180807101000 -0300" channel="HBO HD">
+    <title lang="pt">Especial Sr. Avila: A Morte Tambem Tem Um Fim Vr Brazil</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180807101000 -0300" stop="20180807122500 -0300" channel="HBO HD">
+    <title lang="pt">Homens de Coragem</title>
+    <desc lang="pt">Um incêndio gigantesco na região do Arizona levou a um verdadeiro combate com os mais experientes bombeiros da região(n)</desc>
+    <credits>
+      <director>Joseph Kosinski</director>
+      <actor>Josh Brolin</actor>
+      <actor>Miles Teller</actor>
+      <actor>Jeff Bridges</actor>
+      <actor>Jennifer Connelly</actor>
+      <actor>James Badge Dale</actor>
+      <actor>Taylor Kitsch</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180807122500 -0300" stop="20180807145500 -0300" channel="HBO HD">
+    <title lang="pt">Harry Potter e as Relíquias da Morte: Parte 1</title>
+    <desc lang="pt">Voldemort está ficando mais poderoso. Ele agora controla o Ministério da Magia e Hogwarts. Harry, Ron e Hermione decidem terminar o trabalho de Dumbledore e encontrar as outras Horcruxes para poderem derrotar o Lorde das Trevas(n)</desc>
+    <credits>
+      <director>David Yates</director>
+      <actor>Alan Rickman</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Julie Walters</actor>
+      <actor>Emma Watson</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Helena Bonham Carter</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180807145500 -0300" stop="20180807163500 -0300" channel="HBO HD">
+    <title lang="pt">Invasão a Londres</title>
+    <desc lang="pt">O Presidente dos Estados Unidos se reúne em Londres com vários líderes mundiais para o funeral do Primeiro Ministro Britânico. Mas quando o evento se transforma em uma armadilha mortal(n)</desc>
+    <credits>
+      <director>Babak Najafi</director>
+      <actor>Gerard Butler</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Radha Mitchell</actor>
+      <actor>Martin Petrushev</actor>
+      <actor>Lucy Newman-Williams</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180807163500 -0300" stop="20180807183000 -0300" channel="HBO HD">
+    <title lang="pt">Annabelle 2: A Criação do Mal</title>
+    <desc lang="pt">Anos após a trágica morte de sua filha, um artesão de bonecas e sua esposa decidem acolher em sua casa uma freira e dezenas de meninas desalojadas de um orfanato(n)</desc>
+    <credits>
+      <director>David F. Sandberg</director>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180807183000 -0300" stop="20180807194000 -0300" channel="HBO HD">
+    <title lang="pt">Fora do Armário: Pais e Mães</title>
+    <desc lang="pt">Talvez, uma das decisões mais difíceis para um pai ou uma mãe seja, saber o momento certo para revelar aos filhos sua real orientação sexual(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180807194000 -0300" stop="20180807220000 -0300" channel="HBO HD">
+    <title lang="pt">Homens de Coragem</title>
+    <desc lang="pt">Um incêndio gigantesco na região do Arizona levou a um verdadeiro combate com os mais experientes bombeiros da região(n)</desc>
+    <credits>
+      <director>Joseph Kosinski</director>
+      <actor>Josh Brolin</actor>
+      <actor>Miles Teller</actor>
+      <actor>Jeff Bridges</actor>
+      <actor>Jennifer Connelly</actor>
+      <actor>James Badge Dale</actor>
+      <actor>Taylor Kitsch</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180807220000 -0300" stop="20180808002000 -0300" channel="HBO HD">
+    <title lang="pt">Até o Último Homem</title>
+    <desc lang="pt">Um olhar para a vida de Desmond Doss que, apesar de ter uma forte convicção para não usar armas, se alistou no exército durante a Segunda Guerra Mundial como médico(n)</desc>
+    <credits>
+      <director>Mel Gibson</director>
+      <actor>Andrew Garfield</actor>
+      <actor>Hugo Weaving</actor>
+      <actor>Rachel Griffiths</actor>
+      <actor>Teresa Palmer</actor>
+      <actor>Richard Pyros</actor>
+      <actor>Jacob Warner</actor>
+      <actor>Milo Gibson</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180808002000 -0300" stop="20180808012500 -0300" channel="HBO HD">
+    <title lang="pt">Succession</title>
+    <desc lang="pt">Os Roys se encontram em um castelo inglês para o casamento de Shiv e Tom. As crianças se reúnem com a mãe Caroline, que é tão cruel quanto Logan(n)</desc>
+    <credits>
+      <director>Mark Mylod</director>
+      <actor>Sarah Snook</actor>
+      <actor>Brian Cox</actor>
+      <actor>Matthew Macfadyen</actor>
+      <actor>Kieran Culkin</actor>
+      <actor>Alan Ruck</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180808012500 -0300" stop="20180808020000 -0300" channel="HBO HD">
+    <title lang="pt">Vice</title>
+    <desc lang="pt">Vice traz reportagens sem nenhum tipo de filtro, revelando feitos escandalosos e surpreendentes dos lugares mais perigosos do mundo e eventos impressionantes que jamais estariam nas notícias(n)</desc>
+    <credits>
+      <director>David Mandel</director>
+      <actor>Michael Kenneth Williams</actor>
+      <actor>Felicia Pearson</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S6 E13</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180808020000 -0300" stop="20180808035800 -0300" channel="HBO HD">
+    <title lang="pt">Passe Livre</title>
+    <desc lang="pt">Dois homens casados vivem olhando para outras mulheres. Suas esposas estão cheias desse comportamento e lhes dão um(n)</desc>
+    <credits>
+      <director>Bobby Farrelly</director>
+      <director>Peter Farrelly</director>
+      <actor>Christina Applegate</actor>
+      <actor>Peter Farrelly</actor>
+      <actor>Jenna Fischer</actor>
+      <actor>Owen Wilson</actor>
+      <actor>Bobby Farrelly</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180808035800 -0300" stop="20180808045500 -0300" channel="HBO HD">
+    <title lang="pt">Fale e Vote</title>
+    <desc lang="pt">Documentário original HBO, parte da série(n)</desc>
+    <credits>
+      <director>Alberto Ferreras</director>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180808045500 -0300" stop="20180808063000 -0300" channel="HBO HD">
+    <title lang="pt">Batman e Arlequina</title>
+    <desc lang="pt">Batman e Asa Noturna perseguem Hera Venenosa e Jason Woodrue, mais conhecido como Homem Florônico, ao descobrirem que eles roubaram um conteúdo misterioso da S.T.A.R. Laboratórios(n)</desc>
+    <credits>
+      <director>Sam Liu</director>
+      <actor>Vozes de Kevin Conroy</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Paget Brewster</actor>
+      <actor>Loren Lester</actor>
+      <actor>Eric Bauza</actor>
+      <actor>Mindy Sterling</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180808063000 -0300" stop="20180808075000 -0300" channel="HBO HD">
+    <title lang="pt">Divisão de Classes</title>
+    <desc lang="pt">Testemunha os recentes efeitos da divisão e estagnação das classes sociais na região de West Chelsea em Nova York. Foca em um cruzamento onde há uma escola particular de elite bem em frente dos projetos de habitações públicas(n)</desc>
+    <credits>
+      <director>Marc Levin</director>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180808075000 -0300" stop="20180808094500 -0300" channel="HBO HD">
+    <title lang="pt">Além da Morte</title>
+    <desc lang="pt">Estudantes de medicina começam a explorar o reino das experiências de quase morte. Cada um deles passa pela experiência de ter o coração parado e depois revivido(n)</desc>
+    <credits>
+      <director>Niels Arden Oplev</director>
+      <actor>Ellen Page</actor>
+      <actor>Diego Luna</actor>
+      <actor>Nina Dobrev</actor>
+      <actor>James Norton</actor>
+      <actor>Kiersey Clemons</actor>
+      <actor>Kiefer Sutherland</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180808094500 -0300" stop="20180808115000 -0300" channel="HBO HD">
+    <title lang="pt">Homem-Aranha</title>
+    <desc lang="pt">História de um adolescente tímido que é picado por aranha geneticamente alterada. Ele ganha super poderes e começa a usá-los contra criminosos(n)</desc>
+    <credits>
+      <director>Sam Raimi</director>
+      <actor>Tobey Maguire</actor>
+      <actor>Willem Dafoe</actor>
+      <actor>Kirsten Dunst</actor>
+      <actor>James Franco</actor>
+      <actor>Cliff Robertson</actor>
+      <actor>Rosemary Harris</actor>
+      <actor>J.K. Simmons</actor>
+      <actor>Alfred Molina</actor>
+      <actor>Donna Murphy</actor>
+      <actor>Bill Nuun</actor>
+      <actor>Ted Raimi</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180808115000 -0300" stop="20180808143500 -0300" channel="HBO HD">
+    <title lang="pt">Tróia</title>
+    <desc lang="pt">Tróia volta às telas numa das maiores produções de 2004. Os lendários Aquiles, Paris, Helena e o príncipe Hector viverão a maior aventura de suas vidas(n)</desc>
+    <credits>
+      <director>Wolfgang Petersen</director>
+      <actor>Brad Pitt</actor>
+      <actor>Eric Bana</actor>
+      <actor>Orlando Bloom</actor>
+      <actor>Diane Kruger</actor>
+      <actor>Sean Bean</actor>
+      <actor>Brian Cox</actor>
+      <actor>Peter O'Toole</actor>
+      <actor>Brendan Gleeson</actor>
+      <actor>Saffron Burrows</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Julie Christie</actor>
+      <actor>Garreth Hedlund</actor>
+      <actor>Vincent Regan</actor>
+      <actor>James Cosmo</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180808143500 -0300" stop="20180808172500 -0300" channel="HBO HD">
+    <title lang="pt">Blade Runner 2049</title>
+    <desc lang="pt">Após os problemas enfrentados com os Nexus 8, uma nova espécie de replicantes é desenvolvida. K é um blade runner que caça replicantes foragidos para a polícia de Los Angeles(n)</desc>
+    <credits>
+      <director>Denis Villeneuve</director>
+      <actor>Ryan Gosling</actor>
+      <actor>Dave Bautista</actor>
+      <actor>Robin Wright</actor>
+      <actor>Mark Arnold</actor>
+      <actor>Vilma Szécsi</actor>
+      <actor>Ana de Armas</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180808172500 -0300" stop="20180808175000 -0300" channel="HBO HD">
+    <title lang="pt">Especial Sr. Avila: A Morte Tambem Tem Um Fim Vr Brazil</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180808175000 -0300" stop="20180808195000 -0300" channel="HBO HD">
+    <title lang="pt">Além da Morte</title>
+    <desc lang="pt">Estudantes de medicina começam a explorar o reino das experiências de quase morte. Cada um deles passa pela experiência de ter o coração parado e depois revivido(n)</desc>
+    <credits>
+      <director>Niels Arden Oplev</director>
+      <actor>Ellen Page</actor>
+      <actor>Diego Luna</actor>
+      <actor>Nina Dobrev</actor>
+      <actor>James Norton</actor>
+      <actor>Kiersey Clemons</actor>
+      <actor>Kiefer Sutherland</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180808195000 -0300" stop="20180808210000 -0300" channel="HBO HD">
+    <title lang="pt">Fora do Armário: Drag Queens</title>
+    <desc lang="pt">Como lidar com o que não se entende? Como transitar num universo que não se conhece(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180808210000 -0300" stop="20180808220000 -0300" channel="HBO HD">
+    <title lang="pt">Succession</title>
+    <desc lang="pt">Com a votação contra Logan se aproximando, Roman tenta convencer um membro neutro do conselho, enquanto Kendall luta freneticamente por votos a favor(n)</desc>
+    <credits>
+      <director>Adam McKay</director>
+      <actor>Sarah Snook</actor>
+      <actor>Brian Cox</actor>
+      <actor>Matthew Macfadyen</actor>
+      <actor>Kieran Culkin</actor>
+      <actor>Alan Ruck</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180808220000 -0300" stop="20180808230000 -0300" channel="HBO HD">
+    <title lang="pt">Sharp Objects</title>
+    <desc lang="pt">Sharp Objects acompanha Camille, uma repórter criminalística recém-saída de um hospital psicológico devido a anos de violência auto-infligida(n)</desc>
+    <credits>
+      <director>Jean-Marc Vallée</director>
+      <actor>Amy Adams</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>Chris Messina</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180808230000 -0300" stop="20180809000000 -0300" channel="HBO HD">
+    <title lang="pt">Jackie</title>
+    <desc lang="pt">Criadas por um casal homossexual, duas irmãs gêmeas viajam para os Estados Unidos para ajudar a mãe biológica. Elas embarcam em uma jornada inesquecível com a excêntrica Jackie, e suas vidas nunca mais serão a mesma(n)</desc>
+    <credits>
+      <director>Antoinette Beumer</director>
+      <actor>Holly Hunter</actor>
+      <actor>Carice Van Houten</actor>
+      <actor>Jelka Van Houten</actor>
+      <actor>Valerie Adams</actor>
+      <actor>Luis Bordonada</actor>
+      <actor>Chadwick Brown</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180809000000 -0300" stop="20180809014500 -0300" channel="HBO HD">
+    <title lang="pt">Fahrenheit 451</title>
+    <desc lang="pt">Quando um governo proíbe a leitura e manda queimar todas as obras literárias, um grupo resolve tentar preservá-las em uma floresta(n)</desc>
+    <credits>
+      <director>François Truffaut</director>
+      <actor>Oskar Werner</actor>
+      <actor>Julie Christie</actor>
+      <actor>Cyril Cusak</actor>
+      <actor>Anton Diffring</actor>
+      <actor>Roma Milne</actor>
+      <actor>Arthur Cox</actor>
+      <actor>Eric Manson</actor>
+      <actor>Noel Davis</actor>
+      <actor>Donald Pickering</actor>
+      <actor>Bee Duffell</actor>
+      <actor>Alex Scott</actor>
+      <actor>Gillian Aldam</actor>
+    </credits>
+    <date>1966</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180809014500 -0300" stop="20180809021500 -0300" channel="HBO HD">
+    <title lang="pt">Especial Sr. Avila: A Morte Tambem Tem Um Fim Vr Brazil</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180809021500 -0300" stop="20180809041000 -0300" channel="HBO HD">
+    <title lang="pt">O Duelista</title>
+    <desc lang="pt">Situado na Rússia imperial do século XIX, a história gira em torno de um veterano do exército aposentado que ganha a vida ao estabelecer duelos para aristocratas, uma prática comum da época(n)</desc>
+    <credits>
+      <director>Aleksey Mizgirev</director>
+      <actor>Pyotr Fyodorov</actor>
+      <actor>Vladimir Mashkov</actor>
+      <actor>Yuliya Khlynina</actor>
+      <actor>Yuri Kolokolnikov</actor>
+      <actor>Aleksandr Mizev</actor>
+      <actor>Aleksandra Serebryakova</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180809041000 -0300" stop="20180809055000 -0300" channel="HBO HD">
+    <title lang="pt">Baltimore Rising</title>
+    <desc lang="pt">Um olhar por trás das cenas de comoção na cidade de Baltimore após a morte de Freddie Gray em 2015 enquanto estava sob custódia policial(n)</desc>
+    <credits>
+      <director>Sonja Sohn</director>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180809055000 -0300" stop="20180809074000 -0300" channel="HBO HD">
+    <title lang="pt">Através da Máscara</title>
+    <desc lang="pt">Quando um ex-funcionário o trai, um mercenário de uma empresa britânica decide limpar seu próprio nome. Para isso ele deverá ganhar a confiança da mulher que ama(n)</desc>
+    <credits>
+      <director>Chad Burns</director>
+      <actor>Andrew Cheney</actor>
+      <actor>Kara Killmer</actor>
+      <actor>John Rhys-Davies</actor>
+      <actor>Annie Kitral</actor>
+      <actor>Alan Madlane</actor>
+      <actor>Adetokumboh M'Cormack</actor>
+      <actor>Annie Kitral</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180809074000 -0300" stop="20180809093000 -0300" channel="HBO HD">
+    <title lang="pt">Dunkirk</title>
+    <desc lang="pt">Na Operação Dínamo, soldados aliados da Bélgica, do Império Britânico e da França são rodeados pelo exército alemão e devem ser resgatados durante uma feroz batalha no início da Segunda Guerra Mundial(n)</desc>
+    <credits>
+      <director>Christopher Nolan</director>
+      <actor>Fionn Whitehead</actor>
+      <actor>Damien Bonnard</actor>
+      <actor>Aneurin Barnard</actor>
+      <actor>Lee Armstrong</actor>
+      <actor>James Bloor</actor>
+      <actor>Barry Keoghan</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180809093000 -0300" stop="20180809100000 -0300" channel="HBO HD">
+    <title lang="pt">Especial Sr. Avila: A Morte Tambem Tem Um Fim Vr Brazil</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180809100000 -0300" stop="20180809115000 -0300" channel="HBO HD">
+    <title lang="pt">Jackie</title>
+    <desc lang="pt">Criadas por um casal homossexual, duas irmãs gêmeas viajam para os Estados Unidos para ajudar a mãe biológica. Elas embarcam em uma jornada inesquecível com a excêntrica Jackie, e suas vidas nunca mais serão a mesma(n)</desc>
+    <credits>
+      <director>Antoinette Beumer</director>
+      <actor>Holly Hunter</actor>
+      <actor>Carice Van Houten</actor>
+      <actor>Jelka Van Houten</actor>
+      <actor>Valerie Adams</actor>
+      <actor>Luis Bordonada</actor>
+      <actor>Chadwick Brown</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180809115000 -0300" stop="20180809133500 -0300" channel="HBO HD">
+    <title lang="pt">Invasores</title>
+    <desc lang="pt">Uma misteriosa epidemia vem alterando o comportamento dos humanos. Uma psiquiatra de Washington descobre que essa epidemia é de origem extraterrestre, e que precisa proteger o filho, que poderá ser vital para impedir uma invasão(n)</desc>
+    <credits>
+      <director>Oliver Hirschbiegel</director>
+      <actor>Nicole Kidman</actor>
+      <actor>Daniel Craig</actor>
+      <actor>Jeremy Northam</actor>
+      <actor>Jackson Bond</actor>
+      <actor>Jeffrey Wright</actor>
+      <actor>Veronica Cartwright</actor>
+      <actor>Josef Sommer</actor>
+      <actor>Eric Benjamin</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180809133500 -0300" stop="20180809154000 -0300" channel="HBO HD">
+    <title lang="pt">A Chegada</title>
+    <desc lang="pt">Quando seres interplanetários deixam marcas na Terra, a Dra. Louise Banks, uma linguista especialista no assunto, é procurada por militares para traduzir os sinais e desvendar se os alienígenas representam uma ameaça ou não(n)</desc>
+    <credits>
+      <director>Denis Villeneuve</director>
+      <actor>Amy Adams</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Michael Stuhlbarg</actor>
+      <actor>Mark O'Brien</actor>
+      <actor>Tzi Ma</actor>
+      <actor>Abigail Pniowsky</actor>
+      <actor>Julia Scarlett Dan</actor>
+      <actor>Jadyn Malone</actor>
+      <actor>Frank Schorpion</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180809154000 -0300" stop="20180809173000 -0300" channel="HBO HD">
+    <title lang="pt">Dunkirk</title>
+    <desc lang="pt">Na Operação Dínamo, soldados aliados da Bélgica, do Império Britânico e da França são rodeados pelo exército alemão e devem ser resgatados durante uma feroz batalha no início da Segunda Guerra Mundial(n)</desc>
+    <credits>
+      <director>Christopher Nolan</director>
+      <actor>Fionn Whitehead</actor>
+      <actor>Damien Bonnard</actor>
+      <actor>Aneurin Barnard</actor>
+      <actor>Lee Armstrong</actor>
+      <actor>James Bloor</actor>
+      <actor>Barry Keoghan</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180809173000 -0300" stop="20180809195500 -0300" channel="HBO HD">
+    <title lang="pt">Até o Último Homem</title>
+    <desc lang="pt">Um olhar para a vida de Desmond Doss que, apesar de ter uma forte convicção para não usar armas, se alistou no exército durante a Segunda Guerra Mundial como médico(n)</desc>
+    <credits>
+      <director>Mel Gibson</director>
+      <actor>Andrew Garfield</actor>
+      <actor>Hugo Weaving</actor>
+      <actor>Rachel Griffiths</actor>
+      <actor>Teresa Palmer</actor>
+      <actor>Richard Pyros</actor>
+      <actor>Jacob Warner</actor>
+      <actor>Milo Gibson</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180809195500 -0300" stop="20180809210000 -0300" channel="HBO HD">
+    <title lang="pt">Fora do Armário: Pais e Mães</title>
+    <desc lang="pt">Talvez, uma das decisões mais difíceis para um pai ou uma mãe seja, saber o momento certo para revelar aos filhos sua real orientação sexual(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180809210000 -0300" stop="20180809220000 -0300" channel="HBO HD">
+    <title lang="pt">Succession</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Adam McKay</director>
+      <actor>Sarah Snook</actor>
+      <actor>Brian Cox</actor>
+      <actor>Matthew Macfadyen</actor>
+      <actor>Kieran Culkin</actor>
+      <actor>Alan Ruck</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180809220000 -0300" stop="20180809230500 -0300" channel="HBO HD">
+    <title lang="pt">Sharp Objects</title>
+    <desc lang="pt">Sharp Objects acompanha Camille, uma repórter criminalística recém-saída de um hospital psicológico devido a anos de violência auto-infligida(n)</desc>
+    <credits>
+      <director>Jean-Marc Vallée</director>
+      <actor>Amy Adams</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>Chris Messina</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180809230500 -0300" stop="20180810015500 -0300" channel="HBO HD">
+    <title lang="pt">Blade Runner 2049</title>
+    <desc lang="pt">Após os problemas enfrentados com os Nexus 8, uma nova espécie de replicantes é desenvolvida. K é um blade runner que caça replicantes foragidos para a polícia de Los Angeles(n)</desc>
+    <credits>
+      <director>Denis Villeneuve</director>
+      <actor>Ryan Gosling</actor>
+      <actor>Dave Bautista</actor>
+      <actor>Robin Wright</actor>
+      <actor>Mark Arnold</actor>
+      <actor>Vilma Szécsi</actor>
+      <actor>Ana de Armas</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180810015500 -0300" stop="20180810033000 -0300" channel="HBO HD">
+    <title lang="pt">Valentine Road: O Assassinato De Lawrence King</title>
+    <desc lang="pt">Um impactante documentário que investiga o assassinato de um jovem garoto que estava começando a explorar sua identidade sexual, revelando os motivos que levaram ao terrível crime e narrando suas complexas consequências(n)</desc>
+    <credits>
+      <director>Marta Cunningham</director>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180810033000 -0300" stop="20180810052000 -0300" channel="HBO HD">
+    <title lang="pt">Com o Dinheiro dos Outros</title>
+    <desc lang="pt">Frio e arrogante, Lawrence vive de negociar companhias que estão em situação financeira ruim. Para conseguir um bom negócio, não hesita em fazer jogadas(n)</desc>
+    <credits>
+      <director>Norman Jewison</director>
+      <actor>Danny DeVito</actor>
+      <actor>Gregory Peck</actor>
+      <actor>Penelope Ann Miller</actor>
+      <actor>Piper Laurie</actor>
+      <actor>Dean Jones</actor>
+      <actor>R.D. Call</actor>
+      <actor>Mo Gaffney</actor>
+      <actor>Bette Henritze</actor>
+      <actor>Tom Aldredge</actor>
+      <actor>Leila Kenzle</actor>
+      <actor>Cullen O. Johnson</actor>
+      <actor>William De Acutis</actor>
+      <actor>David Wells</actor>
+      <actor>Stephanie White</actor>
+      <actor>Jeff Hayenga</actor>
+    </credits>
+    <date>1991</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180810052000 -0300" stop="20180810071000 -0300" channel="HBO HD">
+    <title lang="pt">Arthur Miller: Escritor</title>
+    <desc lang="pt">Um olhar íntimo para a vida de Arthur Miller, um dos maiores escritores dos EUA no século XX, a partir da perspectiva de sua filha, a cineasta Rebecca Miller(n)</desc>
+    <credits>
+      <director>Rebecca Miller</director>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180810071000 -0300" stop="20180810091500 -0300" channel="HBO HD">
+    <title lang="pt">O Espaço Entre Nós</title>
+    <desc lang="pt">Aos 16 anos de idade, Gardner, o primeiro ser humano nascido em Marte, vem à Terra em busca de respostas sobre suas origens. Ele também espera se encontrar com Tulsa, uma garota que conheceu na Internet(n)</desc>
+    <credits>
+      <director>Peter Chelsom</director>
+      <actor>Gary Oldman</actor>
+      <actor>Asa Butterfield</actor>
+      <actor>Carla Gugino</actor>
+      <actor>Britt Robertson</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180810091500 -0300" stop="20180810111500 -0300" channel="HBO HD">
+    <title lang="pt">Fome de Poder</title>
+    <desc lang="pt">Ray Kroc descobre o restaurante de fast-food operado pelos irmãos McDonald no sul da Califórnia no final dos anos 50. Impressionado com o potencial do empreendimento, o ambicioso faz de tudo para assumir o controle do negócio(n)</desc>
+    <credits>
+      <director>John Lee Hancock</director>
+      <actor>Nick Offerman</actor>
+      <actor>Laura Dern</actor>
+      <actor>Griff Furst</actor>
+      <actor>Michael Keaton</actor>
+      <actor>John Carroll Lynch</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>B.J. Novak</actor>
+      <actor>Patrick Wilson</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180810111500 -0300" stop="20180810125500 -0300" channel="HBO HD">
+    <title lang="pt">Sully - O Herói do Rio Hudson</title>
+    <desc lang="pt">Logo após decolar do aeroporto de Nova York, uma revoada de pássaros atinge as turbinas do avião pilotado por Sully. Não vendo outra alternativa, ele realiza um pouso forçado em pleno rio Hudson(n)</desc>
+    <credits>
+      <director>Clint Eastwood</director>
+      <actor>Tom Hanks</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Valerie Mahaffey</actor>
+      <actor>Delphi Harrington</actor>
+      <actor>Mike O'Malley</actor>
+      <actor>Jamey Sheridan</actor>
+      <actor>Anna Gunn</actor>
+      <actor>Holt McCallany</actor>
+      <actor>Ahmed Lucan</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180810125500 -0300" stop="20180810133000 -0300" channel="HBO HD">
+    <title lang="pt">Especial Sr. Avila: A Morte Tambem Tem Um Fim Vr Brazil</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180810133000 -0300" stop="20180810151500 -0300" channel="HBO HD">
+    <title lang="pt">Invasão a Londres</title>
+    <desc lang="pt">O Presidente dos Estados Unidos se reúne em Londres com vários líderes mundiais para o funeral do Primeiro Ministro Britânico. Mas quando o evento se transforma em uma armadilha mortal(n)</desc>
+    <credits>
+      <director>Babak Najafi</director>
+      <actor>Gerard Butler</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Radha Mitchell</actor>
+      <actor>Martin Petrushev</actor>
+      <actor>Lucy Newman-Williams</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180810151500 -0300" stop="20180810172000 -0300" channel="HBO HD">
+    <title lang="pt">Lion: Uma Jornada Para Casa</title>
+    <desc lang="pt">Em 1986, Saroo, um garoto de cinco anos, se perde nas ruas de Calcutá a milhares de quilômetros de sua casa. Após inúmeras dificuldades, a criança é adotada por um amoroso casal australiano e se muda para a Tasmânia(n)</desc>
+    <credits>
+      <director>Garth Davis</director>
+      <actor>Sunny Pawar</actor>
+      <actor>Tannishtha Chatterjee</actor>
+      <actor>Nawazuddin Siddiqui</actor>
+      <actor>David Wenham</actor>
+      <actor>Abhishek Bharate</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Dev Patel</actor>
+      <actor>Rooney Mara</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180810172000 -0300" stop="20180810193000 -0300" channel="HBO HD">
+    <title lang="pt">Atração Perigosa</title>
+    <desc lang="pt">Enquanto planeja seu próximo trabalho, um experiente ladrão tenta controlar seus sentimentos por uma gerente de banco que está ligada a um de seus roubos anteriores, enquanto um agente da FBI quer acabar com ele e sua equipe(n)</desc>
+    <credits>
+      <director>Ben Affleck</director>
+      <actor>Ben Affleck</actor>
+      <actor>Rebecca Hall</actor>
+      <actor>Jon Hamm</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Blake Lively</actor>
+      <actor>Titus Welliver</actor>
+      <actor>Pete Postlethwaite</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180810193000 -0300" stop="20180810200000 -0300" channel="HBO HD">
+    <title lang="pt">Vice</title>
+    <desc lang="pt">Vice traz reportagens sem nenhum tipo de filtro, revelando feitos escandalosos e surpreendentes dos lugares mais perigosos do mundo e eventos impressionantes que jamais estariam nas notícias(n)</desc>
+    <credits>
+      <director>David Mandel</director>
+      <actor>Michael Kenneth Williams</actor>
+      <actor>Felicia Pearson</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S6 E11</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180810200000 -0300" stop="20180810220000 -0300" channel="HBO HD">
+    <title lang="pt">A Chegada</title>
+    <desc lang="pt">Quando seres interplanetários deixam marcas na Terra, a Dra. Louise Banks, uma linguista especialista no assunto, é procurada por militares para traduzir os sinais e desvendar se os alienígenas representam uma ameaça ou não(n)</desc>
+    <credits>
+      <director>Denis Villeneuve</director>
+      <actor>Amy Adams</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Michael Stuhlbarg</actor>
+      <actor>Mark O'Brien</actor>
+      <actor>Tzi Ma</actor>
+      <actor>Abigail Pniowsky</actor>
+      <actor>Julia Scarlett Dan</actor>
+      <actor>Jadyn Malone</actor>
+      <actor>Frank Schorpion</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180810220000 -0300" stop="20180810223500 -0300" channel="HBO HD">
+    <title lang="pt">Greg News Com Gregório Duvivier</title>
+    <desc lang="pt">O humorístico terá um formato um pouco diferente dos programas de entrevista no ar, no qual o apresentador irá comentar as notícias do Brasil e do mundo(n)</desc>
+    <credits>
+      <director>Alessandra Orofino</director>
+      <actor>Gregório Duvivier</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E19</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180810223500 -0300" stop="20180811004000 -0300" channel="HBO HD">
+    <title lang="pt">O Espaço Entre Nós</title>
+    <desc lang="pt">Aos 16 anos de idade, Gardner, o primeiro ser humano nascido em Marte, vem à Terra em busca de respostas sobre suas origens. Ele também espera se encontrar com Tulsa, uma garota que conheceu na Internet(n)</desc>
+    <credits>
+      <director>Peter Chelsom</director>
+      <actor>Gary Oldman</actor>
+      <actor>Asa Butterfield</actor>
+      <actor>Carla Gugino</actor>
+      <actor>Britt Robertson</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180811004000 -0300" stop="20180811023500 -0300" channel="HBO HD">
+    <title lang="pt">Passe Livre</title>
+    <desc lang="pt">Dois homens casados vivem olhando para outras mulheres. Suas esposas estão cheias desse comportamento e lhes dão um(n)</desc>
+    <credits>
+      <director>Bobby Farrelly</director>
+      <director>Peter Farrelly</director>
+      <actor>Christina Applegate</actor>
+      <actor>Peter Farrelly</actor>
+      <actor>Jenna Fischer</actor>
+      <actor>Owen Wilson</actor>
+      <actor>Bobby Farrelly</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180811023500 -0300" stop="20180811043000 -0300" channel="HBO HD">
+    <title lang="pt">Fúria Sobre Rodas</title>
+    <desc lang="pt">Milton tem a missão de acabar com um culto de magia negra liderado por Jonas King, que assassinou sua filha. Milton tem três dias para detê-los antes que também sacrifiquem sua neta em uma noite de lua cheia(n)</desc>
+    <credits>
+      <director>Patrick Lussier</director>
+      <actor>Nicolas Cage</actor>
+      <actor>William Fichtner</actor>
+      <actor>Billy Burke</actor>
+      <actor>David Morse</actor>
+      <actor>Todd Farmer</actor>
+      <actor>Charlotte Ross</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180811043000 -0300" stop="20180811062500 -0300" channel="HBO HD">
+    <title lang="pt">Sem Reservas</title>
+    <desc lang="pt">Kate Armstrong é a chef de um restaurante famoso. O mundo dela se transforma quando passa a cuidar da sua sobrinha Zoe e conhece Nick Palme, um novo cozinheiro do restaurante(n)</desc>
+    <credits>
+      <director>Scott Hicks</director>
+      <actor>Catherine Zeta-Jones</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Bob Balaban</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>Abigail Breslin</actor>
+      <actor>Jenny Wade</actor>
+      <actor>Eric Silver</actor>
+      <actor>Brian F. O'Byrne</actor>
+      <actor>Lily Rabe</actor>
+      <actor>Arija Bareikis</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180811062500 -0300" stop="20180811080000 -0300" channel="HBO HD">
+    <title lang="pt">Virei um Gato</title>
+    <desc lang="pt">Ben é um executivo de sucesso, viciado em trabalho, que passa pouco tempo com a família. Para o aniversário da filha, ele compra um gato mas, a caminho de casa, Ben sofre um acidente e entra em coma(n)</desc>
+    <credits>
+      <director>Barry Sonnenfeld</director>
+      <actor>Kevin Spacey</actor>
+      <actor>Jennifer Garner</actor>
+      <actor>Robbie Amell</actor>
+      <actor>Cheryl Hines</actor>
+      <actor>Mark Consuelos</actor>
+      <actor>Christopher Walken</actor>
+      <actor>Teddy Sears</actor>
+      <actor>Jay Patterson</actor>
+      <actor>Serge Houde</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180811080000 -0300" stop="20180811083500 -0300" channel="HBO HD">
+    <title lang="pt">Especial Sr. Avila: A Morte Tambem Tem Um Fim Vr Brazil</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180811083500 -0300" stop="20180811103500 -0300" channel="HBO HD">
+    <title lang="pt">Fome de Poder</title>
+    <desc lang="pt">Ray Kroc descobre o restaurante de fast-food operado pelos irmãos McDonald no sul da Califórnia no final dos anos 50. Impressionado com o potencial do empreendimento, o ambicioso faz de tudo para assumir o controle do negócio(n)</desc>
+    <credits>
+      <director>John Lee Hancock</director>
+      <actor>Nick Offerman</actor>
+      <actor>Laura Dern</actor>
+      <actor>Griff Furst</actor>
+      <actor>Michael Keaton</actor>
+      <actor>John Carroll Lynch</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>B.J. Novak</actor>
+      <actor>Patrick Wilson</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180811103500 -0300" stop="20180811123000 -0300" channel="HBO HD">
+    <title lang="pt">Além da Morte</title>
+    <desc lang="pt">Estudantes de medicina começam a explorar o reino das experiências de quase morte. Cada um deles passa pela experiência de ter o coração parado e depois revivido(n)</desc>
+    <credits>
+      <director>Niels Arden Oplev</director>
+      <actor>Ellen Page</actor>
+      <actor>Diego Luna</actor>
+      <actor>Nina Dobrev</actor>
+      <actor>James Norton</actor>
+      <actor>Kiersey Clemons</actor>
+      <actor>Kiefer Sutherland</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180811123000 -0300" stop="20180811141500 -0300" channel="HBO HD">
+    <title lang="pt">Fahrenheit 451</title>
+    <desc lang="pt">Quando um governo proíbe a leitura e manda queimar todas as obras literárias, um grupo resolve tentar preservá-las em uma floresta(n)</desc>
+    <credits>
+      <director>François Truffaut</director>
+      <actor>Oskar Werner</actor>
+      <actor>Julie Christie</actor>
+      <actor>Cyril Cusak</actor>
+      <actor>Anton Diffring</actor>
+      <actor>Roma Milne</actor>
+      <actor>Arthur Cox</actor>
+      <actor>Eric Manson</actor>
+      <actor>Noel Davis</actor>
+      <actor>Donald Pickering</actor>
+      <actor>Bee Duffell</actor>
+      <actor>Alex Scott</actor>
+      <actor>Gillian Aldam</actor>
+    </credits>
+    <date>1966</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180811141500 -0300" stop="20180811160000 -0300" channel="HBO HD">
+    <title lang="pt">Invasão a Londres</title>
+    <desc lang="pt">O Presidente dos Estados Unidos se reúne em Londres com vários líderes mundiais para o funeral do Primeiro Ministro Britânico. Mas quando o evento se transforma em uma armadilha mortal(n)</desc>
+    <credits>
+      <director>Babak Najafi</director>
+      <actor>Gerard Butler</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Radha Mitchell</actor>
+      <actor>Martin Petrushev</actor>
+      <actor>Lucy Newman-Williams</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180811160000 -0300" stop="20180811183000 -0300" channel="HBO HD">
+    <title lang="pt">Até o Último Homem</title>
+    <desc lang="pt">Um olhar para a vida de Desmond Doss que, apesar de ter uma forte convicção para não usar armas, se alistou no exército durante a Segunda Guerra Mundial como médico(n)</desc>
+    <credits>
+      <director>Mel Gibson</director>
+      <actor>Andrew Garfield</actor>
+      <actor>Hugo Weaving</actor>
+      <actor>Rachel Griffiths</actor>
+      <actor>Teresa Palmer</actor>
+      <actor>Richard Pyros</actor>
+      <actor>Jacob Warner</actor>
+      <actor>Milo Gibson</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180811183000 -0300" stop="20180811190500 -0300" channel="HBO HD">
+    <title lang="pt">Greg News Com Gregório Duvivier</title>
+    <desc lang="pt">O humorístico terá um formato um pouco diferente dos programas de entrevista no ar, no qual o apresentador irá comentar as notícias do Brasil e do mundo(n)</desc>
+    <credits>
+      <director>Alessandra Orofino</director>
+      <actor>Gregório Duvivier</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E19</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180811190500 -0300" stop="20180811220000 -0300" channel="HBO HD">
+    <title lang="pt">Blade Runner 2049</title>
+    <desc lang="pt">Após os problemas enfrentados com os Nexus 8, uma nova espécie de replicantes é desenvolvida. K é um blade runner que caça replicantes foragidos para a polícia de Los Angeles(n)</desc>
+    <credits>
+      <director>Denis Villeneuve</director>
+      <actor>Ryan Gosling</actor>
+      <actor>Dave Bautista</actor>
+      <actor>Robin Wright</actor>
+      <actor>Mark Arnold</actor>
+      <actor>Vilma Szécsi</actor>
+      <actor>Ana de Armas</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+</tv>
