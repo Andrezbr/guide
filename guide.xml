@@ -1,0 +1,3405 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TELECINE FUN HD">
+    <display-name lang="pt">TELECINE FUN HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Disney CHANNEL HD">
+    <display-name lang="pt">Disney CHANNEL HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="pt">HBO 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="pt">FOX HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="MEGAPIX HD">
+    <display-name lang="pt">MEGAPIX HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="pt">TNT HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="WARNER CHANNEL HD">
+    <display-name lang="pt">WARNER CHANNEL HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE PREMIUM HD">
+    <display-name lang="pt">TELECINE PREMIUM HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE ACTION HD">
+    <display-name lang="pt">TELECINE ACTION HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE TOUCH HD">
+    <display-name lang="pt">TELECINE TOUCH HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE PIPOCA HD">
+    <display-name lang="pt">TELECINE PIPOCA HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE CULT HD">
+    <display-name lang="pt">TELECINE CULT HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO FAMILY HD">
+    <display-name lang="pt">HBO FAMILY HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="pt">ESPN HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SPORTV HD">
+    <display-name lang="pt">SPORTV HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="MULTISHOW HD">
+    <display-name lang="pt">MULTISHOW HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BOOMERANG">
+    <display-name lang="pt">BOOMERANG</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="DISNEY XD">
+    <display-name lang="pt">DISNEY XD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="pt">FX HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO PLUS HD">
+    <display-name lang="pt">HBO PLUS HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SPORTV 2 HD">
+    <display-name lang="pt">SPORTV 2 HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20180812014500 -0300" stop="20180812034000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Mulheres ao Ataque</title>
+    <desc lang="pt">Quando descobre que seu namorado é casado, Carly procura a esposa dele, e as duas se unem para se vingar. Uma amizade inesperada surge entre elas, mas a situação piora quando descobrem que ele tem uma terceira pretendente(n)</desc>
+    <credits>
+      <director>Nick Cassavetes</director>
+      <actor>Cameron Diaz</actor>
+      <actor>Leslie Mann</actor>
+      <actor>Kate Upton</actor>
+      <actor>Don Johnson</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Kenneth Maharaj</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180812034000 -0300" stop="20180812051000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Hulk: Onde os Monstros Habitam</title>
+    <desc lang="pt">O vilão Pesadelo planeja conquistar o mundo através dos sonhos, convertendo cada sonhador em um monstro. Para combatê-lo, Hulk vai contar com a ajuda do Doutor Estranho e de um esquadrão peculiar da S.H.I.E.L.D(n)</desc>
+    <credits>
+      <director>Mitch Schauer</director>
+      <actor>Vozes de Fred Tatasciore</actor>
+      <actor>Liam O'brien</actor>
+      <actor>Jesse Burch</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180812051000 -0300" stop="20180812064500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">A Incrível Jornada II: Perdidos em São Francisco</title>
+    <desc lang="pt">Bob, Laura e seus filhos estão prontos para as férias no Canadá. No embarcar os bichos de estimação, fogem e se perdem e vivem incríveis aventuras nas ruas(n)</desc>
+    <credits>
+      <director>David R. Ellis</director>
+      <actor>Robert Hays</actor>
+      <actor>Verónica Lauren</actor>
+      <actor>Kevin Chevalia</actor>
+      <actor>Robert Hays</actor>
+      <actor>Kim Greist</actor>
+      <actor>Benj Thall</actor>
+      <actor>Adrienne Carter</actor>
+    </credits>
+    <date>1996</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180812064500 -0300" stop="20180812082500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Tom e Huck - Em Busca do Grande Tesouro</title>
+    <desc lang="pt">Tom Sawyer e seu melhor amigo Huck tentam recuperar um mapa do tesouro para desvendar um assassinato(n)</desc>
+    <credits>
+      <director>Peter Hewitt</director>
+      <actor>Jonathan Taylor Thomas</actor>
+      <actor>Brad Renfro</actor>
+      <actor>Eric Schweig</actor>
+      <actor>Charles Rocket</actor>
+      <actor>Amy Wright</actor>
+      <actor>Michael McShane</actor>
+      <actor>Marian Seldes</actor>
+    </credits>
+    <date>1996</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180812082500 -0300" stop="20180812095500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Nascidos na China</title>
+    <desc lang="pt">Uma jornada épica pelas selvas da China, das montanhas ao coração da floresta de bambu. Três espécies de animais e seus momentos mais íntimos. Urso panda, macaco dourado e leopardo da neve(n)</desc>
+    <credits>
+      <director>Lu Chuan</director>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180812095500 -0300" stop="20180812113500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Planeta do Tesouro</title>
+    <desc lang="pt">Adaptação de A Ilha do Tesouro em animação. Mostra o garoto Jim Hawkins em busca de um tesouro no espaço, acompanhado de piratas(n)</desc>
+    <credits>
+      <director>Ron Clements</director>
+      <actor>Vozes de Brian Murray</actor>
+      <actor>Joseph Gordon-Levitt</actor>
+      <actor>Emma Thompson</actor>
+      <actor>David Hyde Pierce</actor>
+      <actor>Martin Short</actor>
+      <actor>Patrick McGoohan</actor>
+      <actor>Roscoe Lee Browne</actor>
+      <actor>Laurie Metcalf</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180812113500 -0300" stop="20180812131500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Tarzan: A Evolução da Lenda</title>
+    <desc lang="pt">Em um acidente aéreo na selva africana, apenas uma criança sobrevive. Isolado do mundo, Tarzan cresce aprendendo as leis da selva com um grupo de gorilas. Agora, ele precisa enfrentar empresários gananciosos enviados à floresta(n)</desc>
+    <credits>
+      <director>Reinhard Klooss</director>
+      <actor>Vozes de Kellan Lutz</actor>
+      <actor>Brian Bloom</actor>
+      <actor>Robert Capron</actor>
+      <actor>Spencer Locke</actor>
+      <actor>Jaime Ray Newman</actor>
+      <actor>Mark Deklin</actor>
+      <actor>Rebecca Reaney</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180812131500 -0300" stop="20180812150000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Procurando Dory</title>
+    <desc lang="pt">Um ano após ajudar Marlin a reencontrar seu filho Nemo, Dory tem um insight e lembra de sua amada família. Com saudades, ela decide fazer de tudo para reencontrá-los e na desenfreada busca vai parar nas perigosas mãos de humanos(n)</desc>
+    <credits>
+      <director>Andrew Stanton</director>
+      <director>Angus MacLane</director>
+      <actor>Vozes de Ellen DeGeneres</actor>
+      <actor>Albert Brooks</actor>
+      <actor>Ed O'Neill</actor>
+      <actor>Kaitlin Olson</actor>
+      <actor>Hayden Rolence</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Diane Keaton</actor>
+      <actor>Eugene Levy</actor>
+      <actor>Sloane Murray</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180812150000 -0300" stop="20180812163000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Rei Leão 2 - O Reino de Simba</title>
+    <desc lang="pt">Kiara, filha de Simba e Nala, nasce herdeira das Terras do Reino. Ela descobre com Timão e Pumba, que seu pai expulsou do reino todos os leões que foram fiéis a Scar(n)</desc>
+    <credits>
+      <director>Darrell Rooney</director>
+      <director>Rob LaDuca</director>
+      <actor>Vozes de Moira Kelly</actor>
+      <actor>Andy Dick</actor>
+      <actor>Matthew Broderick</actor>
+      <actor>Neve Campbell</actor>
+      <actor>Liz Callaway</actor>
+      <actor>Michelle Horn</actor>
+      <actor>Ashley Edner</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180812163000 -0300" stop="20180812182000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Meu Malvado Favorito 2</title>
+    <desc lang="pt">Depois do sucesso que tornou o primeiro filme dessa saga a décima produção animada mais vista em toda a história dos EUA, esse vilão super bonzinho está de volta. Agora Gru tem uma nova missão: salvar o mundo das pessoas más(n)</desc>
+    <credits>
+      <director>Pierre Coffin</director>
+      <director>Chris Renaud</director>
+      <actor>Vozes de Steve Carell</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Benjamin Bratt</actor>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Russell Brand</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180812182000 -0300" stop="20180812201000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">A Creche do Papai</title>
+    <desc lang="pt">Após perder o emprego, dois pais tiram seus filhos da creche e decidem abrir sua própria creche, e vivem entre gritos, choros, travessuras e dores de cabeça(n)</desc>
+    <credits>
+      <director>Steve Carr</director>
+      <actor>Eddie Murphy</actor>
+      <actor>Jeff Garlin</actor>
+      <actor>Steve Zahn</actor>
+      <actor>Anjelica Huston</actor>
+      <actor>Regina King</actor>
+      <actor>Kevin Nealon</actor>
+      <actor>Jonathan Katz</actor>
+      <actor>Siobhan Fallon</actor>
+      <actor>Lisa Edelstein</actor>
+      <actor>Lacey Chabert</actor>
+      <actor>Laura Kightingler</actor>
+      <actor>Leila Arcieri</actor>
+    </credits>
+    <date>2003</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180812201000 -0300" stop="20180812220000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Os Pinguins do Papai</title>
+    <desc lang="pt">Um homem de negócios herda seis pinguins de seu pai. No início, tenta se desfazer deles, mas quando seus filhos se mostram felizes, melhora sua relação porém em detrimento de sua vida profissional(n)</desc>
+    <credits>
+      <director>Mark Waters</director>
+      <actor>Jim Carrey</actor>
+      <actor>Carla Gugino</actor>
+      <actor>Angela Lansbury</actor>
+      <actor>Ophelia Lovibond</actor>
+      <actor>Madeline Carroll</actor>
+      <actor>Clark Gregg</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180812220000 -0300" stop="20180812235000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Pai em Dose Dupla</title>
+    <desc lang="pt">Brad é executivo e se esforça para ser o melhor padrasto possível para os filhos de sua namorada, Sarah. Mas eis que Dusty, o desbocado pai das crianças, reaparece e começa a disputar com ele a atenção e o amor dos pimpolhos(n)</desc>
+    <credits>
+      <director>Sean Anders</director>
+      <actor>Will Ferrell</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Linda Cardellini,Thomas Haden Church</actor>
+      <actor>Scarlett Estevez</actor>
+      <actor>Owen Vaccaro</actor>
+      <actor>Bill Burr</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180812235000 -0300" stop="20180813014500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Entrando Numa Fria</title>
+    <desc lang="pt">Greg pretende se casar, mas uma série de eventos inesperados fazem com que ele pareça ser o rei do desastre e um fracassado aos olhos de toda a família(n)</desc>
+    <credits>
+      <director>Jay Roach</director>
+      <actor>Bem Stiller</actor>
+      <actor>Robert De Niro</actor>
+      <actor>Nicole DeHuff</actor>
+      <actor>Blythe Danner</actor>
+      <actor>Teri Polo</actor>
+      <actor>Jon Abrahams</actor>
+      <actor>James Rebhorn</actor>
+      <actor>Phyllis George</actor>
+      <actor>Owen Wilson</actor>
+      <actor>Thomas McCarthy</actor>
+      <actor>Kali Rocha</actor>
+      <actor>John Elsen</actor>
+    </credits>
+    <date>2000</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180813014500 -0300" stop="20180813032500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Saindo do Armário</title>
+    <desc lang="pt">Os amigos Michael e Matty decidem perder a virgindade até o baile de formatura. Mas em meio a tanta pressão, Matty assume que é gay(n)</desc>
+    <credits>
+      <director>Chris Nelson</director>
+      <actor>Dakota Johnson</actor>
+      <actor>Nicholas Braun</actor>
+      <actor>Hunter Cope</actor>
+      <actor>Gary Cole</actor>
+      <actor>Darien Provost</actor>
+      <actor>Dustin Ybarra</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180813032500 -0300" stop="20180813050500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">A.R.C.H.I.E. - O Cão Robô</title>
+    <desc lang="pt">A jovem Isabel perdeu os pais em um acidente de carro. Por isso, ela se mudou para uma pequena cidade para morar com seu tio, Paul. Se sentindo solitária e sem amigos, ela faz uma amizade inesperada com Archie, um pequeno cão-robô(n)</desc>
+    <credits>
+      <director>Robin Dunne</director>
+      <actor>Katharine Isabelle</actor>
+      <actor>Michael J. Fox</actor>
+      <actor>Sarah Desjardins</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180813050500 -0300" stop="20180813063500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">31 Minutos - O Filme</title>
+    <desc lang="pt">O noticiário de fantoches 31 Minutos tem Juanín como produtor. Ele é também o último da espécie dos juanines, e, por isso, uma colecionadora de animais o captura e o deixa prisioneiro em seu castelo(n)</desc>
+    <credits>
+      <director>Pedro Peirano</director>
+      <director>Alvaro Díaz</director>
+      <actor>Vozes de Pedro Peirano</actor>
+      <actor>Alvaro Díaz</actor>
+      <actor>Rodrigo Salinas</actor>
+      <actor>Alejandra Dueñas</actor>
+      <actor>Patricio Díaz</actor>
+      <actor>Pablo Ilabaca</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180813063500 -0300" stop="20180813081500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Pequeno Cientista</title>
+    <desc lang="pt">Quando o pequeno Iqbal, seu irmão Tariq e seu amigo Sille criam uma fórmula explosiva na escola, eles chamam a atenção de dois criminosos(n)</desc>
+    <credits>
+      <director>Tilde Harkamp</director>
+      <actor>Hircano Soares</actor>
+      <actor>Liv Leman Brandorf</actor>
+      <actor>Arien Takiar</actor>
+      <actor>Sara Masoudi</actor>
+      <actor>Moowgliie Duissara</actor>
+      <actor>Sarah Hermansen</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180813081500 -0300" stop="20180813095000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">A Incrível Jornada II: Perdidos em São Francisco</title>
+    <desc lang="pt">Bob, Laura e seus filhos estão prontos para as férias no Canadá. No embarcar os bichos de estimação, fogem e se perdem e vivem incríveis aventuras nas ruas(n)</desc>
+    <credits>
+      <director>David R. Ellis</director>
+      <actor>Robert Hays</actor>
+      <actor>Verónica Lauren</actor>
+      <actor>Kevin Chevalia</actor>
+      <actor>Robert Hays</actor>
+      <actor>Kim Greist</actor>
+      <actor>Benj Thall</actor>
+      <actor>Adrienne Carter</actor>
+    </credits>
+    <date>1996</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180813095000 -0300" stop="20180813111500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Brasil Animado</title>
+    <desc lang="pt">Essa divertida animação conta a história de Stressu0026 Relax, dois cachorros, um empresário e um diretor de cinema em busca da árvore mais antiga do Brasil, o(n)</desc>
+    <credits>
+      <director>Mariana Caltabiano</director>
+      <actor>Mariana Caltabiano</actor>
+      <actor>Daiane dos Santos</actor>
+      <actor>Eduardo Jardim</actor>
+      <actor>Fernando Meirelles</actor>
+      <actor>Ariel Wollinger</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180813111500 -0300" stop="20180813124000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Hulk: Onde os Monstros Habitam</title>
+    <desc lang="pt">O vilão Pesadelo planeja conquistar o mundo através dos sonhos, convertendo cada sonhador em um monstro. Para combatê-lo, Hulk vai contar com a ajuda do Doutor Estranho e de um esquadrão peculiar da S.H.I.E.L.D(n)</desc>
+    <credits>
+      <director>Mitch Schauer</director>
+      <actor>Vozes de Fred Tatasciore</actor>
+      <actor>Liam O'brien</actor>
+      <actor>Jesse Burch</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180813124000 -0300" stop="20180813142000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Duas Vezes Cupido</title>
+    <desc lang="pt">Versão alemã de(n)</desc>
+    <credits>
+      <director>Lancelot Von Naso</director>
+      <actor>Mia Lohmann</actor>
+      <actor>Delphine Lohmann</actor>
+      <actor>Florian Stetter</actor>
+      <actor>Alwara Höfels</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180813142000 -0300" stop="20180813161500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Pequeno Príncipe</title>
+    <desc lang="pt">Uma pequena garota é criada por uma mãe extremamente controladora. Quando seu vizinho aviador introduz a menina à história do Pequeno Príncipe, ela embarca em uma aventura de descobertas através de sua imaginação(n)</desc>
+    <credits>
+      <director>Mark Osborne</director>
+      <actor>Vozes de Jeff Bridges</actor>
+      <actor>Rachel McAdams</actor>
+      <actor>Mackenzie Foy</actor>
+      <actor>Riley Osborne</actor>
+      <actor>Benicio Del Toro</actor>
+      <actor>Paul Rudd</actor>
+      <actor>Marion Cotillard</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180813161500 -0300" stop="20180813181500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Descendentes 2</title>
+    <desc lang="pt">Mal está se sentindo pressionada em Auradon, então decide abandonar o reino e voltar para a Ilha dos Perdidos. Quando seus amigos Evie, Carlos, Jay e Ben decidem ir atrás dela, encontram uma nova ameaça da ilha: trata-se de Uma(n)</desc>
+    <credits>
+      <director>Kenny Ortega</director>
+      <actor>Dove Cameron</actor>
+      <actor>Sofia Carson</actor>
+      <actor>Cameron Boyce</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180813181500 -0300" stop="20180813195500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Pets - A Vida Secreta dos Bichos</title>
+    <desc lang="pt">Max é um pequeno cão que mora com sua dona, Katie, por quem tem verdadeira adoração. Quando um dia ela volta para casa com Duke, um outro cachorro, Max se sente ameaçado(n)</desc>
+    <credits>
+      <director>Chris Renaud</director>
+      <director>Yarrow Cheney</director>
+      <actor>Vozes de Kevin Hart</actor>
+      <actor>Louis C.K</actor>
+      <actor>Eric Stonestreet</actor>
+      <actor>Dana Carvey</actor>
+      <actor>Albert Brooks</actor>
+      <actor>Steve Coogan</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180813195500 -0300" stop="20180813220000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Gostosas, Lindas &amp; Sexies</title>
+    <desc lang="pt">Beatriz, Tânia, Ivone e Marilu são quatro amigas inseparáveis que vestem tamanhos grandes. Quase sempre com bom humor, elas enfrentam o cotidiano e os dilemas amorosos e profissionais(n)</desc>
+    <credits>
+      <director>Ernani Nunes</director>
+      <actor>Mariana Xavier</actor>
+      <actor>Cacau Protásio</actor>
+      <actor>Lyv Ziese</actor>
+      <actor>Carolinie Figueiredo</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180813220000 -0300" stop="20180814000000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Um Salão do Barulho</title>
+    <desc lang="pt">Gina, cansada de ser maltratada por seu chefe sádico, decide abrir seu próprio salão. Ela contará com a ajuda de sua filha e uma equipe com muita atitude, sem papas na língua e muito humor para fazer o negócio funcionar(n)</desc>
+    <credits>
+      <director>Bille Woodruff</director>
+      <actor>Queen Latifah</actor>
+      <actor>Alicia Silverstone</actor>
+      <actor>Andie MacDowell</actor>
+      <actor>Alfre Woodard</actor>
+      <actor>Mena Suvari</actor>
+      <actor>Della Reese</actor>
+      <actor>Paige Hurd</actor>
+      <actor>Litlle JJ</actor>
+      <actor>Lisa Raye</actor>
+      <actor>Sherri Shepherd</actor>
+      <actor>Kimora Lee</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180814000000 -0300" stop="20180814015500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Ela é Demais Pra Mim</title>
+    <desc lang="pt">Adolescente conhece uma garota e pensa ser ela a mulher de sua vida. Mas sua falta de autoconfiança e a influência dos amigos e da família podem colocar tudo a perder neste novo relacionamento(n)</desc>
+    <credits>
+      <director>Jim Field Smith</director>
+      <actor>Jay Baruchel</actor>
+      <actor>Alice Eve</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Mike Vogel</actor>
+      <actor>Nate Torrence</actor>
+      <actor>Lindsay Sloane</actor>
+      <actor>Kyle Bornheimer</actor>
+      <actor>Jessica St. Clair</actor>
+      <actor>Krysten Ritter</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180814015500 -0300" stop="20180814034000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Tom e Huck - Em Busca do Grande Tesouro</title>
+    <desc lang="pt">Tom Sawyer e seu melhor amigo Huck tentam recuperar um mapa do tesouro para desvendar um assassinato(n)</desc>
+    <credits>
+      <director>Peter Hewitt</director>
+      <actor>Jonathan Taylor Thomas</actor>
+      <actor>Brad Renfro</actor>
+      <actor>Eric Schweig</actor>
+      <actor>Charles Rocket</actor>
+      <actor>Amy Wright</actor>
+      <actor>Michael McShane</actor>
+      <actor>Marian Seldes</actor>
+    </credits>
+    <date>1996</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180814034000 -0300" stop="20180814052000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Ops Meu Namorado Morreu</title>
+    <desc lang="pt">Mary acaba de ser demitida e, como se não bastasse, ela encontra seu namorado, Primo, sentado na poltrona em frente à Tv e morto. Aos poucos, Mary descobre verdades sobre seu namorado que nem imaginava.(n)</desc>
+    <credits>
+      <director>Anthony Edwards</director>
+      <actor>John Corbett</actor>
+      <actor>Heather Graham</actor>
+      <actor>Katherine Moennig</actor>
+      <actor>Scott Michael Foster</actor>
+      <actor>Gina Gershon</actor>
+      <actor>Viola Harris</actor>
+      <actor>Brian Berrebbi</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180814052000 -0300" stop="20180814070000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Saindo do Armário</title>
+    <desc lang="pt">Os amigos Michael e Matty decidem perder a virgindade até o baile de formatura. Mas em meio a tanta pressão, Matty assume que é gay(n)</desc>
+    <credits>
+      <director>Chris Nelson</director>
+      <actor>Dakota Johnson</actor>
+      <actor>Nicholas Braun</actor>
+      <actor>Hunter Cope</actor>
+      <actor>Gary Cole</actor>
+      <actor>Darien Provost</actor>
+      <actor>Dustin Ybarra</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180814070000 -0300" stop="20180814085000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Superescola de Heróis</title>
+    <desc lang="pt">Filho de um casal de super-heróis entra em uma escola que tem por meta transformar jovens superdotados em heróis do futuro. Só que ele ainda não manifestou nenhum superpoder, o que faz com que seja sempre humilhado pelos colegas(n)</desc>
+    <credits>
+      <director>Mike Mitchell</director>
+      <actor>Michael Angarano</actor>
+      <actor>Kurt Russell</actor>
+      <actor>Kelly Preston</actor>
+      <actor>Danielle Panabaker</actor>
+      <actor>Christopher Wynne</actor>
+      <actor>Kevin Heffernan</actor>
+      <actor>Dee Jay Daniels</actor>
+      <actor>Kelly Vitz</actor>
+      <actor>Loren Berman</actor>
+      <actor>Nicholas Braun</actor>
+      <actor>Malika</actor>
+      <actor>Khadijah</actor>
+      <actor>Jake Sandvig</actor>
+      <actor>Will Harris</actor>
+      <actor>Mary Elizabeth Winstead</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180814085000 -0300" stop="20180814105000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">A Lenda dos 108</title>
+    <desc lang="pt">Durante o século 11, na China, o imperador foi assasinado por conspiradores. Para tomar o poder, eles precisam envenenar o jovem príncipe e reviver a terrível lenda dos reis demônios(n)</desc>
+    <credits>
+      <director>Pascal Morelli</director>
+      <actor>Vozes de Lucille Boudonnat</actor>
+      <actor>Philippe Catoire</actor>
+      <actor>Hanako Danjo</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180814105000 -0300" stop="20180814124000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Amor em Jogo</title>
+    <desc lang="pt">Comédia romântica sobre uma mulher que acredita ter encontrado o cara perfeito. É um triângulo amoroso com uma diferença: ao invés de três pessoas, a história envolve vinte e oito: um homem, uma mulher e um time de beisebol(n)</desc>
+    <credits>
+      <director>Bobby Farrelly</director>
+      <director>Peter Farrelly</director>
+      <actor>Drew Barrymore</actor>
+      <actor>Jimmy Fallon</actor>
+      <actor>Jason Spevack</actor>
+      <actor>Jack Kehler</actor>
+      <actor>Scott Severance</actor>
+      <actor>Jessamy Finet</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180814124000 -0300" stop="20180814143000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Meu Malvado Favorito 2</title>
+    <desc lang="pt">Depois do sucesso que tornou o primeiro filme dessa saga a décima produção animada mais vista em toda a história dos EUA, esse vilão super bonzinho está de volta. Agora Gru tem uma nova missão: salvar o mundo das pessoas más(n)</desc>
+    <credits>
+      <director>Pierre Coffin</director>
+      <director>Chris Renaud</director>
+      <actor>Vozes de Steve Carell</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Benjamin Bratt</actor>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Russell Brand</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180814143000 -0300" stop="20180814163000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Entrando Numa Fria</title>
+    <desc lang="pt">Greg pretende se casar, mas uma série de eventos inesperados fazem com que ele pareça ser o rei do desastre e um fracassado aos olhos de toda a família(n)</desc>
+    <credits>
+      <director>Jay Roach</director>
+      <actor>Bem Stiller</actor>
+      <actor>Robert De Niro</actor>
+      <actor>Nicole DeHuff</actor>
+      <actor>Blythe Danner</actor>
+      <actor>Teri Polo</actor>
+      <actor>Jon Abrahams</actor>
+      <actor>James Rebhorn</actor>
+      <actor>Phyllis George</actor>
+      <actor>Owen Wilson</actor>
+      <actor>Thomas McCarthy</actor>
+      <actor>Kali Rocha</actor>
+      <actor>John Elsen</actor>
+    </credits>
+    <date>2000</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180814163000 -0300" stop="20180814181500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Pai em Dose Dupla</title>
+    <desc lang="pt">Brad é executivo e se esforça para ser o melhor padrasto possível para os filhos de sua namorada, Sarah. Mas eis que Dusty, o desbocado pai das crianças, reaparece e começa a disputar com ele a atenção e o amor dos pimpolhos(n)</desc>
+    <credits>
+      <director>Sean Anders</director>
+      <actor>Will Ferrell</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Linda Cardellini,Thomas Haden Church</actor>
+      <actor>Scarlett Estevez</actor>
+      <actor>Owen Vaccaro</actor>
+      <actor>Bill Burr</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180814181500 -0300" stop="20180814201000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Os Saltimbancos Trapalhões - Rumo a Hollywood</title>
+    <desc lang="pt">O Grande Circo Sumatra está em meio a uma grande crise financeira desde a proibição de animais em espetáculos e Barão, dono do circo, acaba aceitando fazer leilões de gado, comícios e outros eventos alternativos no circo(n)</desc>
+    <credits>
+      <director>João Daniel Tikhomiroff</director>
+      <actor>Livian Aragão</actor>
+      <actor>Renato Aragão</actor>
+      <actor>Letícia Colin</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180814201000 -0300" stop="20180814220000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Ponte para Terabítia</title>
+    <desc lang="pt">Jess e Leslie tornam-se grandes amigos e juntos, criam o reino secreto de Terabítia, um lugar mágico e com muitas aventuras(n)</desc>
+    <credits>
+      <director>Gabor Csupo</director>
+      <actor>Josh Hutcherson</actor>
+      <actor>AnnaSophia Robb</actor>
+      <actor>Zooey Deschanel</actor>
+      <actor>Robert Patrick</actor>
+      <actor>Bailee Madison</actor>
+      <actor>Kate Butler</actor>
+      <actor>Devon Wood</actor>
+      <actor>Emma Fenton</actor>
+      <actor>Latham Gaines</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180814220000 -0300" stop="20180814235000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Guerra é Guerra</title>
+    <desc lang="pt">Que você faria se descobrisse que está apaixonado pela mesma mulher que seu melhor amigo? Como se sentiria se dois homens lindos brigassem por você? Reese, Tom Hardy e Chris Pine protagonizam este perigoso e divertido triângulo(n)</desc>
+    <credits>
+      <director>McG</director>
+      <actor>Chris Pine</actor>
+      <actor>Tom Hardy</actor>
+      <actor>Reese Witherspoon</actor>
+      <actor>Til Schweiger</actor>
+      <actor>Chelsea Handler</actor>
+      <actor>John Paul Ruttan</actor>
+      <actor>Angela Bassett</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180814235000 -0300" stop="20180815015000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Antes Só do que Mal Casado</title>
+    <desc lang="pt">Um solteirão convicto enfim se casa, com uma mulher que conheceu há poucas semanas. Porém, na lua-de-mel ela demonstra ser uma pessoa bem diferente e ele percebe que sua vida pode se tornar um pesadelo(n)</desc>
+    <credits>
+      <director>Peter Farrelly</director>
+      <director>Bobby Farrelly</director>
+      <actor>Ben Stiller</actor>
+      <actor>Michelle Monaghan</actor>
+      <actor>Jerry Stiller</actor>
+      <actor>Malin Akerman</actor>
+      <actor>Carlos Mencia</actor>
+      <actor>Rob Corddry</actor>
+      <actor>Stephanie Courtney</actor>
+      <actor>Ali Hillis</actor>
+      <actor>Kathy Lamkin</actor>
+      <actor>Joel Bryant</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180815015000 -0300" stop="20180815035000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Dilema</title>
+    <desc lang="pt">Dois melhores amigos dividem a sociedade de uma empresa. Mas quando um deles descobre que a mulher de seu sócio está tendo um caso, as coisas começam a ficar confusas, nessa divertida comédia(n)</desc>
+    <credits>
+      <director>Ron Howard</director>
+      <actor>Vince Vaughn</actor>
+      <actor>Kevin James</actor>
+      <actor>Winona Ryder</actor>
+      <actor>Jennifer Connelly</actor>
+      <actor>Queen Latifah</actor>
+      <actor>Amy Morton</actor>
+      <actor>Eduardo N. Martinez</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180815035000 -0300" stop="20180815054500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Ela é Demais Pra Mim</title>
+    <desc lang="pt">Adolescente conhece uma garota e pensa ser ela a mulher de sua vida. Mas sua falta de autoconfiança e a influência dos amigos e da família podem colocar tudo a perder neste novo relacionamento(n)</desc>
+    <credits>
+      <director>Jim Field Smith</director>
+      <actor>Jay Baruchel</actor>
+      <actor>Alice Eve</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Mike Vogel</actor>
+      <actor>Nate Torrence</actor>
+      <actor>Lindsay Sloane</actor>
+      <actor>Kyle Bornheimer</actor>
+      <actor>Jessica St. Clair</actor>
+      <actor>Krysten Ritter</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180815054500 -0300" stop="20180815073000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Droga da Sedução</title>
+    <desc lang="pt">Dentista recebe misteriosa mulher, no consultório, que lhe oferece um momento ardente. Para esconder o caso da noiva, ele se mete numa tremenda enrascada(n)</desc>
+    <credits>
+      <director>David Atkins</director>
+      <actor>Steve Martin</actor>
+      <actor>Helena Bonham Carter</actor>
+      <actor>Laura Dern</actor>
+      <actor>Elias Koteas</actor>
+      <actor>Chelcie Ross</actor>
+      <actor>Lynne Thigpen</actor>
+      <actor>Polly Noonan</actor>
+      <actor>JoBe Cerny</actor>
+      <actor>Yasen Peyankov</actor>
+      <actor>Teri Cotruzzola</actor>
+      <actor>Sally Kao</actor>
+    </credits>
+    <date>2001</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180815073000 -0300" stop="20180815090500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">31 Minutos - O Filme</title>
+    <desc lang="pt">O noticiário de fantoches 31 Minutos tem Juanín como produtor. Ele é também o último da espécie dos juanines, e, por isso, uma colecionadora de animais o captura e o deixa prisioneiro em seu castelo(n)</desc>
+    <credits>
+      <director>Pedro Peirano</director>
+      <director>Alvaro Díaz</director>
+      <actor>Vozes de Pedro Peirano</actor>
+      <actor>Alvaro Díaz</actor>
+      <actor>Rodrigo Salinas</actor>
+      <actor>Alejandra Dueñas</actor>
+      <actor>Patricio Díaz</actor>
+      <actor>Pablo Ilabaca</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180815090500 -0300" stop="20180815110000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Pequeno Príncipe</title>
+    <desc lang="pt">Uma pequena garota é criada por uma mãe extremamente controladora. Quando seu vizinho aviador introduz a menina à história do Pequeno Príncipe, ela embarca em uma aventura de descobertas através de sua imaginação(n)</desc>
+    <credits>
+      <director>Mark Osborne</director>
+      <actor>Vozes de Jeff Bridges</actor>
+      <actor>Rachel McAdams</actor>
+      <actor>Mackenzie Foy</actor>
+      <actor>Riley Osborne</actor>
+      <actor>Benicio Del Toro</actor>
+      <actor>Paul Rudd</actor>
+      <actor>Marion Cotillard</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180815110000 -0300" stop="20180815124500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Férias em Alto Astral</title>
+    <desc lang="pt">Grupo de amigos resolve passar férias num camping secreto com muita farra e diversão. Com eles vai Dennis, o maluco professor de teatro(n)</desc>
+    <credits>
+      <director>Jonathan Prince</director>
+      <actor>Christopher Lloyd</actor>
+      <actor>Jonathan Jackson</actor>
+      <actor>Wendy Makkena</actor>
+    </credits>
+    <date>1994</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180815124500 -0300" stop="20180815143000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Superescola de Heróis</title>
+    <desc lang="pt">Filho de um casal de super-heróis entra em uma escola que tem por meta transformar jovens superdotados em heróis do futuro. Só que ele ainda não manifestou nenhum superpoder, o que faz com que seja sempre humilhado pelos colegas(n)</desc>
+    <credits>
+      <director>Mike Mitchell</director>
+      <actor>Michael Angarano</actor>
+      <actor>Kurt Russell</actor>
+      <actor>Kelly Preston</actor>
+      <actor>Danielle Panabaker</actor>
+      <actor>Christopher Wynne</actor>
+      <actor>Kevin Heffernan</actor>
+      <actor>Dee Jay Daniels</actor>
+      <actor>Kelly Vitz</actor>
+      <actor>Loren Berman</actor>
+      <actor>Nicholas Braun</actor>
+      <actor>Malika</actor>
+      <actor>Khadijah</actor>
+      <actor>Jake Sandvig</actor>
+      <actor>Will Harris</actor>
+      <actor>Mary Elizabeth Winstead</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180815143000 -0300" stop="20180815161500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">A Creche do Papai</title>
+    <desc lang="pt">Após perder o emprego, dois pais tiram seus filhos da creche e decidem abrir sua própria creche, e vivem entre gritos, choros, travessuras e dores de cabeça(n)</desc>
+    <credits>
+      <director>Steve Carr</director>
+      <actor>Eddie Murphy</actor>
+      <actor>Jeff Garlin</actor>
+      <actor>Steve Zahn</actor>
+      <actor>Anjelica Huston</actor>
+      <actor>Regina King</actor>
+      <actor>Kevin Nealon</actor>
+      <actor>Jonathan Katz</actor>
+      <actor>Siobhan Fallon</actor>
+      <actor>Lisa Edelstein</actor>
+      <actor>Lacey Chabert</actor>
+      <actor>Laura Kightingler</actor>
+      <actor>Leila Arcieri</actor>
+    </credits>
+    <date>2003</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180815161500 -0300" stop="20180815175500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Os Pinguins do Papai</title>
+    <desc lang="pt">Um homem de negócios herda seis pinguins de seu pai. No início, tenta se desfazer deles, mas quando seus filhos se mostram felizes, melhora sua relação porém em detrimento de sua vida profissional(n)</desc>
+    <credits>
+      <director>Mark Waters</director>
+      <actor>Jim Carrey</actor>
+      <actor>Carla Gugino</actor>
+      <actor>Angela Lansbury</actor>
+      <actor>Ophelia Lovibond</actor>
+      <actor>Madeline Carroll</actor>
+      <actor>Clark Gregg</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180815175500 -0300" stop="20180815201500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Lar das Crianças Peculiares</title>
+    <desc lang="pt">Após a morte de seu avô, Jake parte com seu pai para o País de Gales. Ele pretende encontrar a srta. Peregrine. Ao chegar na casa dela, Jake descobre que lá há uma fenda temporal(n)</desc>
+    <credits>
+      <director>Tim Burton</director>
+      <actor>Eva Green</actor>
+      <actor>Asa Butterfield</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Judi Dench</actor>
+      <actor>Rupert Everett</actor>
+      <actor>Allison Janney</actor>
+      <actor>Chris O'Dowd</actor>
+      <actor>Terence Stamp</actor>
+      <actor>Ella Purnell</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180815201500 -0300" stop="20180815220000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Meu Papai é Noel 3</title>
+    <desc lang="pt">Papai Noel, que também atende pelo nome de Scott Calvin, tem agora um trabalho dobrado: descobrir como fazer sua nova família feliz e encontrar uma forma de deter Jack Frost, que quer roubar a alegria do Natal(n)</desc>
+    <credits>
+      <director>Michael Lembeck</director>
+      <actor>Tim Allen</actor>
+      <actor>Elizabeth Mitchell</actor>
+      <actor>Eric Lloyd</actor>
+      <actor>Judge Reinhold</actor>
+      <actor>Wendy Crewson</actor>
+      <actor>Spencer Breslin</actor>
+      <actor>Liliana Mumy</actor>
+      <actor>Martin Short</actor>
+      <actor>Ann-Margret</actor>
+      <actor>Alan Arkin</actor>
+      <actor>Abigail Bresl</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180815220000 -0300" stop="20180815235500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Fada do Dente</title>
+    <desc lang="pt">Jogador de hóquei fica famoso porque tem a tendência de arrancar os dentes de seus adversários. Sua crueldade faz com que ele seja sentenciado a uma semana de trabalho forçado como uma verdadeira fada do dente(n)</desc>
+    <credits>
+      <director>Michael Lembeck</director>
+      <actor>Dwayne Johnson</actor>
+      <actor>Ashley Judd</actor>
+      <actor>Stephen Merchant</actor>
+      <actor>Ryan Sheckler</actor>
+      <actor>Seth MacFarlane</actor>
+      <actor>Julie Andrews</actor>
+      <actor>Chase Ellison</actor>
+      <actor>Destiny Whitlock</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180815235500 -0300" stop="20180816014500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Você não pode Beijar a Noiva</title>
+    <desc lang="pt">Bryan é obrigado a casar com a filha de um gangster croata para que ela consiga a cidadania americana, mas recebe ordens do(n)</desc>
+    <credits>
+      <director>Rob Hedden</director>
+      <actor>Dave Annable</actor>
+      <actor>Katharine McPhee</actor>
+      <actor>Rob Schneider</actor>
+      <actor>Mena Suvari</actor>
+      <actor>Kathy Bates</actor>
+      <actor>Stephen Tobolowsky</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180816014500 -0300" stop="20180816034000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Um Salão do Barulho</title>
+    <desc lang="pt">Gina, cansada de ser maltratada por seu chefe sádico, decide abrir seu próprio salão. Ela contará com a ajuda de sua filha e uma equipe com muita atitude, sem papas na língua e muito humor para fazer o negócio funcionar(n)</desc>
+    <credits>
+      <director>Bille Woodruff</director>
+      <actor>Queen Latifah</actor>
+      <actor>Alicia Silverstone</actor>
+      <actor>Andie MacDowell</actor>
+      <actor>Alfre Woodard</actor>
+      <actor>Mena Suvari</actor>
+      <actor>Della Reese</actor>
+      <actor>Paige Hurd</actor>
+      <actor>Litlle JJ</actor>
+      <actor>Lisa Raye</actor>
+      <actor>Sherri Shepherd</actor>
+      <actor>Kimora Lee</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180816034000 -0300" stop="20180816054500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Antes Só do que Mal Casado</title>
+    <desc lang="pt">Um solteirão convicto enfim se casa, com uma mulher que conheceu há poucas semanas. Porém, na lua-de-mel ela demonstra ser uma pessoa bem diferente e ele percebe que sua vida pode se tornar um pesadelo(n)</desc>
+    <credits>
+      <director>Peter Farrelly</director>
+      <director>Bobby Farrelly</director>
+      <actor>Ben Stiller</actor>
+      <actor>Michelle Monaghan</actor>
+      <actor>Jerry Stiller</actor>
+      <actor>Malin Akerman</actor>
+      <actor>Carlos Mencia</actor>
+      <actor>Rob Corddry</actor>
+      <actor>Stephanie Courtney</actor>
+      <actor>Ali Hillis</actor>
+      <actor>Kathy Lamkin</actor>
+      <actor>Joel Bryant</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180816054500 -0300" stop="20180816074500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">A Lenda dos 108</title>
+    <desc lang="pt">Durante o século 11, na China, o imperador foi assasinado por conspiradores. Para tomar o poder, eles precisam envenenar o jovem príncipe e reviver a terrível lenda dos reis demônios(n)</desc>
+    <credits>
+      <director>Pascal Morelli</director>
+      <actor>Vozes de Lucille Boudonnat</actor>
+      <actor>Philippe Catoire</actor>
+      <actor>Hanako Danjo</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180816074500 -0300" stop="20180816092500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Uma Aventura Animal</title>
+    <desc lang="pt">Após sofrerem um acidente de avião onde o piloto morreu, Zach, Hannah e seu cachorro Chinook precisam lutar para sobreviver em um lugar selvagem e cheio de perigos. Enquanto isso, sua mãe comanda a busca pelos filhos e o cão(n)</desc>
+    <credits>
+      <director>Richard Boddington</director>
+      <actor>Natasha Henstridge</actor>
+      <actor>Cj Adams</actor>
+      <actor>Erin Pitt</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180816092500 -0300" stop="20180816111000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Harold</title>
+    <desc lang="pt">Aos 13 anos de idade, Harold está em um período de transformações, mas não contava com uma calvicie prematura. Para piorar, ele ainda está se adaptando à nova escola e transforma-se no alvo das piadas dos alunos(n)</desc>
+    <credits>
+      <director>T. Sean Shannon</director>
+      <actor>Spencer Breslin</actor>
+      <actor>Cuba Gooding Jr</actor>
+      <actor>Ally Sheedy</actor>
+      <actor>Stella Maeve</actor>
+      <actor>Dave Attell</actor>
+      <actor>Charlene Biton</actor>
+      <actor>Joey Blonsky</actor>
+      <actor>Meredith Anne Bull</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180816111000 -0300" stop="20180816130500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Meu Passado Me Condena 2</title>
+    <desc lang="pt">A vida de casado de Fábio e Miá cai na rotina. Após Fábio esquecer o terceiro aniversário de casamento, Miá decide pedir um tempo(n)</desc>
+    <credits>
+      <director>Julia Rezende</director>
+      <actor>Fábio Porchat</actor>
+      <actor>Carlos Areia</actor>
+      <actor>Márcia Breia</actor>
+      <actor>Miá Mello</actor>
+      <actor>Ernani Moraes</actor>
+      <actor>Antonio Pedro</actor>
+      <actor>Ricardo Pereira</actor>
+      <actor>Miguel Pinheiro</actor>
+      <actor>Mafalda Pinto</actor>
+      <actor>Marcelo Valle</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180816130500 -0300" stop="20180816150500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Footloose - Ritmo Contagiante</title>
+    <desc lang="pt">Imagine como seria sua vida se onde você mora a dança e o rock estivessem proibidos. Footloose conta a história de uma pequena cidade onde normas conservadoras limitam a diversão, mas tudo muda com a chegada de Ren McComarck(n)</desc>
+    <credits>
+      <director>Craig Brewer</director>
+      <actor>Kenny Wormald</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Julianne Hough</actor>
+      <actor>Andie MacDowell</actor>
+      <actor>Miles Teller</actor>
+      <actor>Ray McKinnon</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180816150500 -0300" stop="20180816165000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Ponte para Terabítia</title>
+    <desc lang="pt">Jess e Leslie tornam-se grandes amigos e juntos, criam o reino secreto de Terabítia, um lugar mágico e com muitas aventuras(n)</desc>
+    <credits>
+      <director>Gabor Csupo</director>
+      <actor>Josh Hutcherson</actor>
+      <actor>AnnaSophia Robb</actor>
+      <actor>Zooey Deschanel</actor>
+      <actor>Robert Patrick</actor>
+      <actor>Bailee Madison</actor>
+      <actor>Kate Butler</actor>
+      <actor>Devon Wood</actor>
+      <actor>Emma Fenton</actor>
+      <actor>Latham Gaines</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180816165000 -0300" stop="20180816183500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Guerra é Guerra</title>
+    <desc lang="pt">Que você faria se descobrisse que está apaixonado pela mesma mulher que seu melhor amigo? Como se sentiria se dois homens lindos brigassem por você? Reese, Tom Hardy e Chris Pine protagonizam este perigoso e divertido triângulo(n)</desc>
+    <credits>
+      <director>McG</director>
+      <actor>Chris Pine</actor>
+      <actor>Tom Hardy</actor>
+      <actor>Reese Witherspoon</actor>
+      <actor>Til Schweiger</actor>
+      <actor>Chelsea Handler</actor>
+      <actor>John Paul Ruttan</actor>
+      <actor>Angela Bassett</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180816183500 -0300" stop="20180816202000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Todas contra John</title>
+    <desc lang="pt">Três garotas decidem se unir após descobrirem que dividem o mesmo namorado. O objetivo delas agora é dar a ele uma lição inesquecível(n)</desc>
+    <credits>
+      <director>Betty Thomas</director>
+      <actor>Jesse Metcalfe</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Brittany Snow</actor>
+      <actor>Ashanti</actor>
+      <actor>Arielle Kebbel</actor>
+      <actor>Penn Badgley</actor>
+      <actor>Jenny McCarthy</actor>
+      <actor>Fatso-Fasano</actor>
+      <actor>Kevin McNulty</actor>
+      <actor>Patricia Drake</actor>
+      <actor>Amanda Li</actor>
+      <actor>Jeffrey Ballard</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180816202000 -0300" stop="20180816220000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Último Virgem</title>
+    <desc lang="pt">O tímido Dudu está no último ano do ensino médio e ainda é virgem. Quando a professora mais desejada do colégio o convida para aulas extras na casa dela(n)</desc>
+    <credits>
+      <director>Rilson Baco</director>
+      <director>Felipe Bretas</director>
+      <actor>Fiorella Mattheis</actor>
+      <actor>Guilherme Prates</actor>
+      <actor>Bia Arantes</actor>
+      <actor>Lisandra Souto</actor>
+      <actor>Márcio Kieling</actor>
+      <actor>Werner Schünemann</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180816220000 -0300" stop="20180816233500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Arrume Um Emprego</title>
+    <desc lang="pt">Após a faculdade, o casal Will e Jillian enfrenta as dificuldades do mercado de trabalho. Vivendo a realidade de expectativas não atendidas, eles se apoiam em suas famílias e amigos para lidar com o cotidiano(n)</desc>
+    <credits>
+      <director>Dylan Kidd</director>
+      <actor>Bryan Cranston</actor>
+      <actor>Anna Kendrick</actor>
+      <actor>Miles Teller</actor>
+      <actor>Brandon T. Jackson</actor>
+      <actor>Nicholas Braun</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180816233500 -0300" stop="20180817013000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">A Última Ressaca do Ano</title>
+    <desc lang="pt">Com a morte do pai, os irmãos Clay e Carol disputam o controle da empresa de tecnologia por ele criada(n)</desc>
+    <credits>
+      <director>Josh Gordon</director>
+      <director>Will Speck</director>
+      <actor>Jason Bateman</actor>
+      <actor>Olivia Munn</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Jennifer Aniston</actor>
+      <actor>Kate McKinnon</actor>
+      <actor>Courtney B. Vance</actor>
+      <actor>Jillian Bell</actor>
+      <actor>Rob Corddry</actor>
+      <actor>Vanessa Bayer</actor>
+      <actor>Randall Park</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180817013000 -0300" stop="20180817031000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Busca Impagável</title>
+    <desc lang="pt">O ex-agente da CIA Bryan Miller agora trabalha como segurança. Sua vida pessoal está desmoronando. Sua ex-mulher está prestes a se casar com um astro pornô, e ele não consegue contato com sua filha(n)</desc>
+    <credits>
+      <director>John Asher</director>
+      <actor>Lee Tergesen</actor>
+      <actor>Lauren Stamile</actor>
+      <actor>Reno Wilson</actor>
+      <actor>Joyce Bulifant</actor>
+      <actor>Margareth Cho</actor>
+      <actor>Laura-Leigh Claire</actor>
+      <actor>Akon</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20180817031000 -0300" stop="20180817044500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Legalmente Loiras</title>
+    <desc lang="pt">Quando Annie e Izzy se mudaram da Inglaterra para a Califórnia, elas acharam que suas habilidades sociais fariam com elas se integrassem imediatamente. Mas elas precisarão mostrar que nunca se deve subestimar o poder das loiras(n)</desc>
+    <credits>
+      <director>Savage Steve Holland</director>
+      <actor>Milly Rosso</actor>
+      <actor>Becky Rosso</actor>
+      <actor>Christopher Cousins</actor>
+      <actor>Brittany Curran</actor>
+      <actor>Lisa Banes</actor>
+      <actor>Curtis Armstrong</actor>
+      <actor>Rose Abdoo</actor>
+      <actor>Bobby Campo</actor>
+      <actor>Chad Broskey</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180817044500 -0300" stop="20180817061500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Pateta - O Filme</title>
+    <desc lang="pt">Preocupado com o que filho Max tem aprontado na escola, Pateta o leva numa viagem para se reaproximarem. Max vai contrariado, pois teve que faltar a um encontro com a garota de seus sonhos para viajar(n)</desc>
+    <credits>
+      <director>Kevin Lima</director>
+      <actor>Vozes de Bill Farmer</actor>
+      <actor>Jason Marsden</actor>
+      <actor>Jim Cummings</actor>
+      <actor>Kellie Martin</actor>
+      <actor>Rob Paulsen</actor>
+      <actor>Wallace Shawn</actor>
+      <actor>Jenna von Oÿ</actor>
+      <actor>Frank Welker</actor>
+      <actor>Kevin Lima</actor>
+      <actor>Julie Brown</actor>
+      <actor>Klee Bragger</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180817061500 -0300" stop="20180817080000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Férias em Alto Astral</title>
+    <desc lang="pt">Grupo de amigos resolve passar férias num camping secreto com muita farra e diversão. Com eles vai Dennis, o maluco professor de teatro(n)</desc>
+    <credits>
+      <director>Jonathan Prince</director>
+      <actor>Christopher Lloyd</actor>
+      <actor>Jonathan Jackson</actor>
+      <actor>Wendy Makkena</actor>
+    </credits>
+    <date>1994</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180817080000 -0300" stop="20180817093000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Turma da Mônica em uma Aventura no Tempo</title>
+    <desc lang="pt">Mônica, Cebolinha, Cascão e Magali precisam viajar pelo tempo para recuperar os 4 elementos da natureza - água, fogo, terra e ar -, para consertar a máquina do tempo do Franjinha(n)</desc>
+    <credits>
+      <director>Maurício de Sousa</director>
+      <actor>Vozes de Marli Bortoletto</actor>
+      <actor>Maria Angélica Santos</actor>
+      <actor>Elza Gonçalves</actor>
+      <actor>Paulo Cavalcante</actor>
+      <actor>Rodrigo Andreatto</actor>
+      <actor>Maurício de Sousa</actor>
+      <actor>Bianca Rinaldi</actor>
+      <actor>João Boy</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180817093000 -0300" stop="20180817111000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Astro Boy</title>
+    <desc lang="pt">Na futurista Metro City, o Dr. Tenma perde seu filho e cria o robô Astro Boy para substituí-lo. O jovem robô possui superpoderes e logo sai em uma aventura para descobrir onde pertence(n)</desc>
+    <credits>
+      <director>David Bowers</director>
+      <actor>Vozes de Nicolas Cage</actor>
+      <actor>Kristen Bell</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Charlize Theron</actor>
+      <actor>Elle Fanning</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Donald Sutherland</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180817111000 -0300" stop="20180817123000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Contos de Amizade da Bela</title>
+    <desc lang="pt">Bela agora possui uma loja de livros na França. Um dia, quando crianças visitam a livraria, pedem para que ela conte algumas histórias(n)</desc>
+    <credits>
+      <director>Jimbo Marshall</director>
+      <actor>Robby Benson</actor>
+      <actor>Paige O'Hara</actor>
+      <actor>Jerry Orbach</actor>
+      <actor>David Odgen Stiers</actor>
+    </credits>
+    <date>1999</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180817123000 -0300" stop="20180817142500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Fada do Dente</title>
+    <desc lang="pt">Jogador de hóquei fica famoso porque tem a tendência de arrancar os dentes de seus adversários. Sua crueldade faz com que ele seja sentenciado a uma semana de trabalho forçado como uma verdadeira fada do dente(n)</desc>
+    <credits>
+      <director>Michael Lembeck</director>
+      <actor>Dwayne Johnson</actor>
+      <actor>Ashley Judd</actor>
+      <actor>Stephen Merchant</actor>
+      <actor>Ryan Sheckler</actor>
+      <actor>Seth MacFarlane</actor>
+      <actor>Julie Andrews</actor>
+      <actor>Chase Ellison</actor>
+      <actor>Destiny Whitlock</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180817142500 -0300" stop="20180817160500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Meu Papai é Noel 3</title>
+    <desc lang="pt">Papai Noel, que também atende pelo nome de Scott Calvin, tem agora um trabalho dobrado: descobrir como fazer sua nova família feliz e encontrar uma forma de deter Jack Frost, que quer roubar a alegria do Natal(n)</desc>
+    <credits>
+      <director>Michael Lembeck</director>
+      <actor>Tim Allen</actor>
+      <actor>Elizabeth Mitchell</actor>
+      <actor>Eric Lloyd</actor>
+      <actor>Judge Reinhold</actor>
+      <actor>Wendy Crewson</actor>
+      <actor>Spencer Breslin</actor>
+      <actor>Liliana Mumy</actor>
+      <actor>Martin Short</actor>
+      <actor>Ann-Margret</actor>
+      <actor>Alan Arkin</actor>
+      <actor>Abigail Bresl</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180817160500 -0300" stop="20180817175000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Paranorman</title>
+    <desc lang="pt">Norman é um garoto que consegue falar com os mortos. Ele não tem muitos amigos, já que as outras crianças o acham estranho e não acreditam em seu dom(n)</desc>
+    <credits>
+      <director>Chris Butler</director>
+      <director>Sam Fell</director>
+      <actor>Vozes de Tucker Albrizzi</actor>
+      <actor>Anna Kendrick</actor>
+      <actor>Kodi Smit-McPhee</actor>
+      <actor>Casey Affleck</actor>
+      <actor>Christopher Mintz-Plasse</actor>
+      <actor>Leslie Mann</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180817175000 -0300" stop="20180817193000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Garoto Fantasma</title>
+    <desc lang="pt">Internado em um hospital, o jovem Leo tem uma infância diferente. Apesar de não poder brincar com outras crianças, ele tem um poder especial: levitar no ar sem ser visto enquanto seu corpo permanece imóvel(n)</desc>
+    <credits>
+      <director>Jean-Loup Felicioli</director>
+      <director>Alain Gagnol</director>
+      <actor>Vozes de Edouard Baer</actor>
+      <actor>Audrey Tautou</actor>
+      <actor>Jean-Pierre Marielle</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180817193000 -0300" stop="20180817220000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa</title>
+    <desc lang="pt">Quatro crianças entram num guarda-roupas e embarcam numa perigosa viagem ao mundo de Narnia, que atravessa um inverno de 100 anos por causa de uma feitiçaria. Eles encontrarão o leão Aslan e juntos tentarão quebrar o encanto(n)</desc>
+    <credits>
+      <director>Andrew Adamson</director>
+      <actor>Georgie Henley</actor>
+      <actor>Skandar Keynes</actor>
+      <actor>William Moseley</actor>
+      <actor>Anna Popplewell</actor>
+      <actor>Tilda Swinton</actor>
+      <actor>James McAvoy</actor>
+      <actor>Jim Broadbent</actor>
+      <actor>Kiran Shah</actor>
+      <actor>James Cosmo</actor>
+      <actor>Shane Rangi</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180817220000 -0300" stop="20180818000500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Diário da Princesa</title>
+    <desc lang="pt">Garota ao saber que seu pai é um príncipe, se vê numa maratona de aulas de etiqueta tendo de escolher entre a mãe e amigos ou seu lugar na realeza(n)</desc>
+    <credits>
+      <director>Garry Marshall</director>
+      <actor>Julie Andrews</actor>
+      <actor>Anne Hathaway</actor>
+      <actor>Hector Elizondo</actor>
+      <actor>Heather Matarazzo</actor>
+      <actor>Mandy Moore</actor>
+      <actor>Caroline Goodall</actor>
+      <actor>Robert Schwartzman</actor>
+    </credits>
+    <date>2001</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818000500 -0300" stop="20180818020000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Um Suburbano Sortudo</title>
+    <desc lang="pt">A vida do humilde Denílson muda quando ele descobre ser herdeiro de um milionário. Agora ele vai frequentar a alta sociedade e mostrar a eles como um verdadeiro suburbano se diverte(n)</desc>
+    <credits>
+      <director>Roberto Santucci</director>
+      <director>Marcelo Antunez</director>
+      <actor>Claudia Alencar</actor>
+      <actor>Carol Castro</actor>
+      <actor>Victor Leal</actor>
+      <actor>Stepan Nercessian</actor>
+      <actor>Rodrigo Sant'anna</actor>
+      <actor>Guida Vianna</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180818020000 -0300" stop="20180818033000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Arrume Um Emprego</title>
+    <desc lang="pt">Após a faculdade, o casal Will e Jillian enfrenta as dificuldades do mercado de trabalho. Vivendo a realidade de expectativas não atendidas, eles se apoiam em suas famílias e amigos para lidar com o cotidiano(n)</desc>
+    <credits>
+      <director>Dylan Kidd</director>
+      <actor>Bryan Cranston</actor>
+      <actor>Anna Kendrick</actor>
+      <actor>Miles Teller</actor>
+      <actor>Brandon T. Jackson</actor>
+      <actor>Nicholas Braun</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180818033000 -0300" stop="20180818052500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">A Última Ressaca do Ano</title>
+    <desc lang="pt">Com a morte do pai, os irmãos Clay e Carol disputam o controle da empresa de tecnologia por ele criada(n)</desc>
+    <credits>
+      <director>Josh Gordon</director>
+      <director>Will Speck</director>
+      <actor>Jason Bateman</actor>
+      <actor>Olivia Munn</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Jennifer Aniston</actor>
+      <actor>Kate McKinnon</actor>
+      <actor>Courtney B. Vance</actor>
+      <actor>Jillian Bell</actor>
+      <actor>Rob Corddry</actor>
+      <actor>Vanessa Bayer</actor>
+      <actor>Randall Park</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180818052500 -0300" stop="20180818070500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Harold</title>
+    <desc lang="pt">Aos 13 anos de idade, Harold está em um período de transformações, mas não contava com uma calvicie prematura. Para piorar, ele ainda está se adaptando à nova escola e transforma-se no alvo das piadas dos alunos(n)</desc>
+    <credits>
+      <director>T. Sean Shannon</director>
+      <actor>Spencer Breslin</actor>
+      <actor>Cuba Gooding Jr</actor>
+      <actor>Ally Sheedy</actor>
+      <actor>Stella Maeve</actor>
+      <actor>Dave Attell</actor>
+      <actor>Charlene Biton</actor>
+      <actor>Joey Blonsky</actor>
+      <actor>Meredith Anne Bull</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818070500 -0300" stop="20180818084000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Legalmente Loiras</title>
+    <desc lang="pt">Quando Annie e Izzy se mudaram da Inglaterra para a Califórnia, elas acharam que suas habilidades sociais fariam com elas se integrassem imediatamente. Mas elas precisarão mostrar que nunca se deve subestimar o poder das loiras(n)</desc>
+    <credits>
+      <director>Savage Steve Holland</director>
+      <actor>Milly Rosso</actor>
+      <actor>Becky Rosso</actor>
+      <actor>Christopher Cousins</actor>
+      <actor>Brittany Curran</actor>
+      <actor>Lisa Banes</actor>
+      <actor>Curtis Armstrong</actor>
+      <actor>Rose Abdoo</actor>
+      <actor>Bobby Campo</actor>
+      <actor>Chad Broskey</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818084000 -0300" stop="20180818102500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Escola de Espiões</title>
+    <desc lang="pt">Aos 16 anos, Megan já é uma jovem assassina. Cansada desta vida, finge a própria morte para recomeçar de novo(n)</desc>
+    <credits>
+      <director>Kyle Newman</director>
+      <actor>Jaime King</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Madeleine Stack</actor>
+      <actor>Eva G. Cooper</actor>
+      <actor>Hailee Steinfeld</actor>
+      <actor>Sophie Turner</actor>
+      <actor>Andre Pushkin</actor>
+      <actor>Jessica Alba</actor>
+      <actor>Bruno Gunn</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180818102500 -0300" stop="20180818115500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Pateta - O Filme</title>
+    <desc lang="pt">Preocupado com o que filho Max tem aprontado na escola, Pateta o leva numa viagem para se reaproximarem. Max vai contrariado, pois teve que faltar a um encontro com a garota de seus sonhos para viajar(n)</desc>
+    <credits>
+      <director>Kevin Lima</director>
+      <actor>Vozes de Bill Farmer</actor>
+      <actor>Jason Marsden</actor>
+      <actor>Jim Cummings</actor>
+      <actor>Kellie Martin</actor>
+      <actor>Rob Paulsen</actor>
+      <actor>Wallace Shawn</actor>
+      <actor>Jenna von Oÿ</actor>
+      <actor>Frank Welker</actor>
+      <actor>Kevin Lima</actor>
+      <actor>Julie Brown</actor>
+      <actor>Klee Bragger</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818115500 -0300" stop="20180818141000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">O Lar das Crianças Peculiares</title>
+    <desc lang="pt">Após a morte de seu avô, Jake parte com seu pai para o País de Gales. Ele pretende encontrar a srta. Peregrine. Ao chegar na casa dela, Jake descobre que lá há uma fenda temporal(n)</desc>
+    <credits>
+      <director>Tim Burton</director>
+      <actor>Eva Green</actor>
+      <actor>Asa Butterfield</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Judi Dench</actor>
+      <actor>Rupert Everett</actor>
+      <actor>Allison Janney</actor>
+      <actor>Chris O'Dowd</actor>
+      <actor>Terence Stamp</actor>
+      <actor>Ella Purnell</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180818141000 -0300" stop="20180818155500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Abracadabra</title>
+    <desc lang="pt">Feiticeiras malvadas, que foram banidas do século XVI, ressurgem nos nossos dias em plena comemoração do Halloween(n)</desc>
+    <credits>
+      <director>Kenny Ortega</director>
+      <actor>Bette Midler</actor>
+      <actor>Sarah Jessica Parker</actor>
+      <actor>Kathy Najimy</actor>
+      <actor>Omri Katz</actor>
+      <actor>Thora Birch</actor>
+      <actor>Vinessa Shaw</actor>
+    </credits>
+    <date>1993</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818155500 -0300" stop="20180818173500 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">A Pantera Cor-de-Rosa</title>
+    <desc lang="pt">O atrapalhado inspetor Jacques Clouseau é chamado a Paris pelo inspetor-chefe, Dreyfus, para investigar o roubo de um diamante. O objetivo de Dreyfus, no entanto, é fazer ele mesmo a investigação, longe dos holofotes da mídia(n)</desc>
+    <credits>
+      <director>Shawn Levy</director>
+      <actor>Steve Martin</actor>
+      <actor>Kevin Kline</actor>
+      <actor>Beyoncé Knowles</actor>
+      <actor>Jean Reno</actor>
+      <actor>Emily Mortimer</actor>
+      <actor>Henry Czerny</actor>
+      <actor>Roger Rees</actor>
+      <actor>William Abadie</actor>
+      <actor>Daniel Sauli</actor>
+      <actor>Anna Katarina</actor>
+      <actor>Nick Toren</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180818173500 -0300" stop="20180818194000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Ela e os Caras</title>
+    <desc lang="pt">Sydney é caloura na faculdade e, quando é expulsa da fraternidade mais popular do campus, vai morar com sete nerds. Cansada de como os garotos são tratados, ela passa a lutar para defender os direitos de seus novos amigos(n)</desc>
+    <credits>
+      <director>Joe Nussbaum</director>
+      <actor>Amanda Bynes</actor>
+      <actor>Sara Paxton</actor>
+      <actor>Matt Long</actor>
+      <actor>Jeremy Howard</actor>
+      <actor>Crystal Hunt</actor>
+      <actor>Adam Hendershott</actor>
+      <actor>Danny Strong</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180818194000 -0300" stop="20180818220000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Missão Madrinha de Casamento</title>
+    <desc lang="pt">Annie é eleita para ser a dama de honra de sua melhor amiga. Annie tem que levá-la a uma viagem selvagem rumo ao matrimônio. Ao fazê-lo, enfrenta suas próprias faltas e descobre uma nova possibilidade para o amor(n)</desc>
+    <credits>
+      <director>Paul Feig</director>
+      <actor>Kristen Wiig</actor>
+      <actor>Terry Crews</actor>
+      <actor>Maya Rudolph</actor>
+      <actor>Jessica St. Clair</actor>
+      <actor>Tom Yi</actor>
+      <actor>Elaine Kao</actor>
+      <actor>Michael Hitchcock</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180818220000 -0300" stop="20180818234000 -0300" channel="TELECINE FUN HD">
+    <title lang="pt">Todo Mundo em Pânico</title>
+    <desc lang="pt">Seis amigos atropelam e matam um homem numa rodovia. Mas o que poderia ser uma tragédia transforma-se numa comédia de terror, cheia de sustos(n)</desc>
+    <credits>
+      <director>Keenen Ivory Wayans</director>
+      <actor>Shannon Elizabeth</actor>
+      <actor>Regina Hall</actor>
+      <actor>Lochlyn Munro</actor>
+      <actor>Jon Abrahams</actor>
+      <actor>Marlon Wayans</actor>
+      <actor>Kurt Fuller</actor>
+      <actor>Carmen Electra</actor>
+    </credits>
+    <date>2000</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180812000000 -0300" stop="20180812020000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Frozen: Uma Aventura Congelante</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812020000 -0300" stop="20180812040000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Descendentes 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812040000 -0300" stop="20180812043000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Enrolados Outra Vez</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812043000 -0300" stop="20180812050000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Elena de Avalor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812050000 -0300" stop="20180812053000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812053000 -0300" stop="20180812060000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812060000 -0300" stop="20180812061500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Simon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812061500 -0300" stop="20180812063000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Doutora Brinquedos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812063000 -0300" stop="20180812070000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">A Guarda do Leão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812070000 -0300" stop="20180812071500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Mickey</title>
+    <sub-title lang="pt">Aventuras Sobre Rodas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812071500 -0300" stop="20180812073000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">PJ Masks</title>
+    <sub-title lang="pt">Heróis de Pijama</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812073000 -0300" stop="20180812080000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Junior Express</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812080000 -0300" stop="20180812081500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Puppy Dog Pals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812081500 -0300" stop="20180812083000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Muppet Babies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812083000 -0300" stop="20180812090000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Vampirina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812090000 -0300" stop="20180812093000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812093000 -0300" stop="20180812100000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Enrolados Outra Vez</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812100000 -0300" stop="20180812103000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Elena de Avalor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812103000 -0300" stop="20180812110000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812110000 -0300" stop="20180812113000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812113000 -0300" stop="20180812120000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812120000 -0300" stop="20180812123000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812123000 -0300" stop="20180812124500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Dino Aventuras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812124500 -0300" stop="20180812130000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Bubu e as Corujinhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812130000 -0300" stop="20180812150000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Aladdin e os 40 Ladrões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812150000 -0300" stop="20180812170000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Procurando Nemo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812170000 -0300" stop="20180812193000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Operação Cupido (1998)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812193000 -0300" stop="20180812200000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Andi Mack</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812200000 -0300" stop="20180812220000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Alice Através do Espelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180812220000 -0300" stop="20180813000000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Procurando Nemo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813000000 -0300" stop="20180813020000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Alice Através do Espelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813020000 -0300" stop="20180813040000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Aladdin e os 40 Ladrões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813040000 -0300" stop="20180813043000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Enrolados Outra Vez</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813043000 -0300" stop="20180813050000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Elena de Avalor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813050000 -0300" stop="20180813053000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813053000 -0300" stop="20180813060000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813060000 -0300" stop="20180813061500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Simon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813061500 -0300" stop="20180813063000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Doutora Brinquedos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813063000 -0300" stop="20180813064500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Puppy Dog Pals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813064500 -0300" stop="20180813070000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Muppet Babies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813070000 -0300" stop="20180813071500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Mickey</title>
+    <sub-title lang="pt">Aventuras Sobre Rodas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813071500 -0300" stop="20180813073000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Vampirina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813073000 -0300" stop="20180813080000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">A Guarda do Leão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813080000 -0300" stop="20180813083000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Princesinha Sofia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813083000 -0300" stop="20180813084500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Mickey Mouse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813084500 -0300" stop="20180813090000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813090000 -0300" stop="20180813093000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Elena de Avalor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813093000 -0300" stop="20180813113000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Aladdin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813113000 -0300" stop="20180813120000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813120000 -0300" stop="20180813123000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Z4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813123000 -0300" stop="20180813130000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813130000 -0300" stop="20180813133000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813133000 -0300" stop="20180813143000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Sou Luna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813143000 -0300" stop="20180813150000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Andi Mack</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813150000 -0300" stop="20180813153000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Enrolados Outra Vez</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813153000 -0300" stop="20180813154500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Mickey Mouse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813154500 -0300" stop="20180813160000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813160000 -0300" stop="20180813163000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813163000 -0300" stop="20180813170000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Operação Big Hero</title>
+    <sub-title lang="pt">A Série</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813170000 -0300" stop="20180813173000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813173000 -0300" stop="20180813180000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813180000 -0300" stop="20180813190000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Sou Luna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813190000 -0300" stop="20180813193000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Z4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813193000 -0300" stop="20180813200000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">O11ZE</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813200000 -0300" stop="20180813220000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Aladdin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813220000 -0300" stop="20180813230000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Sou Luna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813230000 -0300" stop="20180813233000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180813233000 -0300" stop="20180814013000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Zapped</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814013000 -0300" stop="20180814020000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Liv e Maddie</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814020000 -0300" stop="20180814023000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Andi Mack</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814023000 -0300" stop="20180814030000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814030000 -0300" stop="20180814033000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Operação Big Hero</title>
+    <sub-title lang="pt">A Série</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814033000 -0300" stop="20180814034500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814034500 -0300" stop="20180814040000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Mickey Mouse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814040000 -0300" stop="20180814043000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814043000 -0300" stop="20180814050000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Enrolados Outra Vez</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814050000 -0300" stop="20180814053000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814053000 -0300" stop="20180814060000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Elena de Avalor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814060000 -0300" stop="20180814061500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Simon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814061500 -0300" stop="20180814063000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Doutora Brinquedos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814063000 -0300" stop="20180814064500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Puppy Dog Pals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814064500 -0300" stop="20180814070000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Muppet Babies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814070000 -0300" stop="20180814071500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Mickey</title>
+    <sub-title lang="pt">Aventuras Sobre Rodas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814071500 -0300" stop="20180814073000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Vampirina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814073000 -0300" stop="20180814080000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">A Guarda do Leão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814080000 -0300" stop="20180814083000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Princesinha Sofia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814083000 -0300" stop="20180814084500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Mickey Mouse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814084500 -0300" stop="20180814090000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814090000 -0300" stop="20180814093000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Elena de Avalor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814093000 -0300" stop="20180814113000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Cinderela</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814113000 -0300" stop="20180814120000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814120000 -0300" stop="20180814123000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Z4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814123000 -0300" stop="20180814130000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814130000 -0300" stop="20180814133000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814133000 -0300" stop="20180814143000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Sou Luna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814143000 -0300" stop="20180814150000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Andi Mack</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814150000 -0300" stop="20180814153000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Enrolados Outra Vez</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814153000 -0300" stop="20180814154500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Mickey Mouse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814154500 -0300" stop="20180814160000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814160000 -0300" stop="20180814163000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814163000 -0300" stop="20180814170000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Operação Big Hero</title>
+    <sub-title lang="pt">A Série</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814170000 -0300" stop="20180814173000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814173000 -0300" stop="20180814180000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814180000 -0300" stop="20180814190000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Sou Luna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814190000 -0300" stop="20180814193000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Z4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814193000 -0300" stop="20180814200000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">O11ZE</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814200000 -0300" stop="20180814220000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Teen Beach Movie</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814220000 -0300" stop="20180814230000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Sou Luna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814230000 -0300" stop="20180814233000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814233000 -0300" stop="20180815013000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Teen Beach Movie</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815013000 -0300" stop="20180815020000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Liv e Maddie</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815020000 -0300" stop="20180815023000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Andi Mack</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815023000 -0300" stop="20180815030000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815030000 -0300" stop="20180815033000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Operação Big Hero</title>
+    <sub-title lang="pt">A Série</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815033000 -0300" stop="20180815034500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815034500 -0300" stop="20180815040000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Mickey Mouse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815040000 -0300" stop="20180815043000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815043000 -0300" stop="20180815050000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Enrolados Outra Vez</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815050000 -0300" stop="20180815053000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815053000 -0300" stop="20180815060000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Elena de Avalor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815060000 -0300" stop="20180815061500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Simon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815061500 -0300" stop="20180815063000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Doutora Brinquedos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815063000 -0300" stop="20180815064500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Puppy Dog Pals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815064500 -0300" stop="20180815070000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Muppet Babies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815070000 -0300" stop="20180815071500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Mickey</title>
+    <sub-title lang="pt">Aventuras Sobre Rodas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815071500 -0300" stop="20180815073000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Vampirina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815073000 -0300" stop="20180815080000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">A Guarda do Leão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815080000 -0300" stop="20180815083000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Princesinha Sofia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815083000 -0300" stop="20180815084500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Mickey Mouse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815084500 -0300" stop="20180815090000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815090000 -0300" stop="20180815093000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Elena de Avalor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815093000 -0300" stop="20180815113000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Wall-E</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815113000 -0300" stop="20180815120000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815120000 -0300" stop="20180815123000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Z4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815123000 -0300" stop="20180815130000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815130000 -0300" stop="20180815133000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815133000 -0300" stop="20180815143000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Sou Luna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815143000 -0300" stop="20180815150000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Andi Mack</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815150000 -0300" stop="20180815153000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Enrolados Outra Vez</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815153000 -0300" stop="20180815154500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Mickey Mouse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815154500 -0300" stop="20180815160000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815160000 -0300" stop="20180815163000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815163000 -0300" stop="20180815170000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Operação Big Hero</title>
+    <sub-title lang="pt">A Série</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815170000 -0300" stop="20180815173000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815173000 -0300" stop="20180815180000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815180000 -0300" stop="20180815190000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Sou Luna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815190000 -0300" stop="20180815193000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Z4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815193000 -0300" stop="20180815200000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">O11ZE</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815200000 -0300" stop="20180815220000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Wall-E</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815220000 -0300" stop="20180815230000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Sou Luna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815230000 -0300" stop="20180815233000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180815233000 -0300" stop="20180816013000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Phineas e Ferb: Através da 2ª Dimensão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816013000 -0300" stop="20180816020000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Liv e Maddie</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816020000 -0300" stop="20180816023000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Andi Mack</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816023000 -0300" stop="20180816030000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816030000 -0300" stop="20180816033000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Operação Big Hero</title>
+    <sub-title lang="pt">A Série</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816033000 -0300" stop="20180816034500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816034500 -0300" stop="20180816040000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Mickey Mouse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816040000 -0300" stop="20180816043000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816043000 -0300" stop="20180816050000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Enrolados Outra Vez</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816050000 -0300" stop="20180816053000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816053000 -0300" stop="20180816060000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Elena de Avalor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816060000 -0300" stop="20180816061500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Simon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816061500 -0300" stop="20180816063000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Doutora Brinquedos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816063000 -0300" stop="20180816064500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Puppy Dog Pals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816064500 -0300" stop="20180816070000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Muppet Babies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816070000 -0300" stop="20180816071500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Mickey</title>
+    <sub-title lang="pt">Aventuras Sobre Rodas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816071500 -0300" stop="20180816073000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Vampirina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816073000 -0300" stop="20180816080000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">A Guarda do Leão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816080000 -0300" stop="20180816083000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Princesinha Sofia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816083000 -0300" stop="20180816084500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Mickey Mouse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816084500 -0300" stop="20180816090000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816090000 -0300" stop="20180816093000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Elena de Avalor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816093000 -0300" stop="20180816113000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">A Família do Futuro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816113000 -0300" stop="20180816120000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816120000 -0300" stop="20180816123000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Z4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816123000 -0300" stop="20180816130000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816130000 -0300" stop="20180816133000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816133000 -0300" stop="20180816143000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Sou Luna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816143000 -0300" stop="20180816150000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Andi Mack</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816150000 -0300" stop="20180816153000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Enrolados Outra Vez</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816153000 -0300" stop="20180816154500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Mickey Mouse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816154500 -0300" stop="20180816160000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816160000 -0300" stop="20180816163000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816163000 -0300" stop="20180816170000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Operação Big Hero</title>
+    <sub-title lang="pt">A Série</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816170000 -0300" stop="20180816173000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816173000 -0300" stop="20180816180000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816180000 -0300" stop="20180816190000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Sou Luna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816190000 -0300" stop="20180816193000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Z4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816193000 -0300" stop="20180816200000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">O11ZE</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816200000 -0300" stop="20180816220000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Alice Através do Espelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816220000 -0300" stop="20180816230000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Sou Luna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816230000 -0300" stop="20180816233000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180816233000 -0300" stop="20180817013000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Alice Através do Espelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817013000 -0300" stop="20180817020000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Liv e Maddie</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817020000 -0300" stop="20180817023000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Andi Mack</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817023000 -0300" stop="20180817030000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817030000 -0300" stop="20180817033000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Operação Big Hero</title>
+    <sub-title lang="pt">A Série</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817033000 -0300" stop="20180817034500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817034500 -0300" stop="20180817040000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Mickey Mouse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817040000 -0300" stop="20180817043000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817043000 -0300" stop="20180817050000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Enrolados Outra Vez</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817050000 -0300" stop="20180817053000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817053000 -0300" stop="20180817060000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Elena de Avalor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817060000 -0300" stop="20180817080000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Vida de Inseto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817080000 -0300" stop="20180817091500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Princesinha Sofia: As Ilhas Místicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817091500 -0300" stop="20180817094500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Uma História de Terror</title>
+    <sub-title lang="pt">Halloween com Mickey Mouse</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817094500 -0300" stop="20180817100000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Mickey Mouse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817100000 -0300" stop="20180817120000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Detona Ralph</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817120000 -0300" stop="20180817123000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Z4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817123000 -0300" stop="20180817133000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Princesinha Sofia: Era Uma Vez\u2026</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817133000 -0300" stop="20180817143000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Sou Luna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817143000 -0300" stop="20180817150000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Andi Mack</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817150000 -0300" stop="20180817153000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Andi Mack</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817153000 -0300" stop="20180817154500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Mickey Mouse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817154500 -0300" stop="20180817160000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817160000 -0300" stop="20180817180000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Zombies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817180000 -0300" stop="20180817190000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Sou Luna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817190000 -0300" stop="20180817193000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Sou Luna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817193000 -0300" stop="20180817200000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Z4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817200000 -0300" stop="20180817203000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">O11ZE</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817203000 -0300" stop="20180817220000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Zootopia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817220000 -0300" stop="20180817230000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Sou Luna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180817230000 -0300" stop="20180818010000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Zombies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818010000 -0300" stop="20180818030000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Vida de Inseto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818030000 -0300" stop="20180818033000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Operação Big Hero</title>
+    <sub-title lang="pt">A Série</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818033000 -0300" stop="20180818034500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818034500 -0300" stop="20180818040000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Mickey Mouse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818040000 -0300" stop="20180818043000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818043000 -0300" stop="20180818050000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Enrolados Outra Vez</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818050000 -0300" stop="20180818053000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818053000 -0300" stop="20180818060000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Elena de Avalor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818060000 -0300" stop="20180818061500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Simon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818061500 -0300" stop="20180818063000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Doutora Brinquedos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818063000 -0300" stop="20180818070000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">A Guarda do Leão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818070000 -0300" stop="20180818071500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Mickey</title>
+    <sub-title lang="pt">Aventuras Sobre Rodas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818071500 -0300" stop="20180818073000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">PJ Masks</title>
+    <sub-title lang="pt">Heróis de Pijama</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818073000 -0300" stop="20180818080000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Junior Express</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818080000 -0300" stop="20180818081500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Puppy Dog Pals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818081500 -0300" stop="20180818083000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Muppet Babies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818083000 -0300" stop="20180818090000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Vampirina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818090000 -0300" stop="20180818093000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818093000 -0300" stop="20180818100000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Enrolados Outra Vez</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818100000 -0300" stop="20180818103000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Elena de Avalor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818103000 -0300" stop="20180818110000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818110000 -0300" stop="20180818113000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818113000 -0300" stop="20180818120000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818120000 -0300" stop="20180818123000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818123000 -0300" stop="20180818124500 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Dino Aventuras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818124500 -0300" stop="20180818130000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Bubu e as Corujinhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818130000 -0300" stop="20180818150000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">A Pequena Sereia: A História de Ariel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818150000 -0300" stop="20180818153000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">A Irmã do Meio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818153000 -0300" stop="20180818160000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">A Casa da Raven</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818160000 -0300" stop="20180818180000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Descendentes 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818180000 -0300" stop="20180818183000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Acampados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818183000 -0300" stop="20180818190000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Andi Mack</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818190000 -0300" stop="20180818193000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818193000 -0300" stop="20180818200000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818200000 -0300" stop="20180818220000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Frozen: Uma Aventura Congelante</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180818220000 -0300" stop="20180819000000 -0300" channel="Disney CHANNEL HD">
+    <title lang="pt">Thor: O Mundo Sombrio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
